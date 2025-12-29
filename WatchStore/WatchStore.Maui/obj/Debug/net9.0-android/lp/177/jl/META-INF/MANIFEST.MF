@@ -1,0 +1,348 @@
+Manifest-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+
+Name: res/drawable-mdpi-v4/ic_token_remove_pressed.png
+SHA-256-Digest: HNi3v7ydvF2ST/rohBeIrE8mnuoH8PdWbs/yxlthjBs=
+
+Name: res/drawable-xhdpi-v4/ic_token_remove.png
+SHA-256-Digest: RP1Q6Hx+iO4GWc4UMXDOCz3ctIsEcD9kSxciC/6KL6A=
+
+Name: res/layout/number_picker.xml
+SHA-256-Digest: Nfij5mY68Hq6fMVNGPL84JP7KrTIWftCK6ds8RhZNm8=
+
+Name: res/drawable-xxhdpi-v4/ic_token_remove_dark.png
+SHA-256-Digest: 6ngnqbOxFEoguO6l9TqpSnsHS+k+y7Ee4qZ+zbhp4dw=
+
+Name: res/drawable-hdpi-v4/ic_collapse_dataform_group_dark.png
+SHA-256-Digest: 9OZ6Yf5+sk7ppxBNu26a03QgM0D2rNaqTNEy2AiJz4c=
+
+Name: res/drawable-ldpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: FL0SgvvXR2HB1eQMH6/cmCozQri9fUvvdIfNr3FObYo=
+
+Name: res/drawable/autocomplete_focusable_bg.xml
+SHA-256-Digest: n6svjFU4xo+a0qbCNgEiB3c67A1DT9iWi55+K++xJ30=
+
+Name: res/drawable-xxhdpi-v4/ic_collapse_dataform_group_dark.png
+SHA-256-Digest: O11b/L5+IZdIv+EFj+N3fWTD7L+lijIoSCaspjXuZi4=
+
+Name: res/anim/text_slide_in_from_top.xml
+SHA-256-Digest: 8jgwkuCeK3bv74HmbWcbbJCIm7rXwWcXJ2s5dJHPD9E=
+
+Name: res/drawable-mdpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: TT4D/jheiigtr05YgMpZ2XIWdgztl1s2Nt0U8mm7rg0=
+
+Name: res/drawable-xxxhdpi-v4/ic_expand_dataform_group.png
+SHA-256-Digest: s+UXvtK/EQn3z+ZbkTekzWiiwW6okfkNqIGokXY6ik0=
+
+Name: res/drawable-mdpi-v4/ic_clear_dark.png
+SHA-256-Digest: RKOvxH82bSg+s0Cs/bQ41uS0gr3vUQrssP25XKPf6U8=
+
+Name: res/drawable-mdpi-v4/ic_expand_dataform_group.png
+SHA-256-Digest: M2mJXgO6DlU7jIy/2YUc5N/nQQUaP+F6O07EQEBLfC0=
+
+Name: res/drawable/dataform_number_picker_background.xml
+SHA-256-Digest: QjD0xg8A8S1yRVXq9Phey01vvKm8cT/iKvL53TWoxc0=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: nMhRe73wbYefV6LP1vjGkU5IgA1ENCHNhQlxlF+Y57I=
+
+Name: res/layout/data_form_segmented_editor.xml
+SHA-256-Digest: kcbn1kIqVOk0NUXOXG3PvCbPRs9bVidnGhOvDxXRl+Q=
+
+Name: res/drawable/autocomplete_default_background.xml
+SHA-256-Digest: CkVJ8gx2/sOPY3xNfClWOAuEoYI84IlcIapKAuLC1T8=
+
+Name: res/layout/data_form_checkbox_editor.xml
+SHA-256-Digest: 9EHotPltW0UwZYtBqmYRbBDhIxYu9E3SFEnFWCX1oKQ=
+
+Name: res/drawable-xxhdpi-v4/ic_token_remove_pressed_dark.png
+SHA-256-Digest: 9UKcq8v3dCrvLJPawoaBHjkLPM0Mc57gDwCjxcJUISE=
+
+Name: res/layout/data_form_editor_validation_layout_1.xml
+SHA-256-Digest: TCurOTmkDHS9Qz2MkTj1BH7FSkywVQJXnFJoUDHnUlA=
+
+Name: res/drawable-xxhdpi-v4/ic_expand_dataform_group.png
+SHA-256-Digest: cSkro4STgtt8dAxdJ7UXjwcVEe6z69CXYcLzIeaJs0k=
+
+Name: res/layout/data_form_list_editor_item.xml
+SHA-256-Digest: YEY8aq4H9300jdc1CEiCmi4m8YyW555ZX1TcsGqot94=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: cpqBa2ZkHr2Dq1iS0FFA8ejbGPES5c1v7spZr45zLTg=
+
+Name: res/drawable/data_form_valid_icon.xml
+SHA-256-Digest: 3XVLQqeCkJdJ49Q5ism2RAH4W4YggABXgWDQsg5p6fA=
+
+Name: res/drawable-xxhdpi-v4/ic_clear_dark.png
+SHA-256-Digest: HRhi+7PGJsDSyjpN03ua/hRcvBuxdpBM7IllpSEcIxY=
+
+Name: res/drawable/data_form_invalid_icon.xml
+SHA-256-Digest: hXlzoTgEQA+Zz1wDrMJsI5yadeRBPZ4ByJNZc3xaCKA=
+
+Name: res/drawable-hdpi-v4/ic_clear_dark.png
+SHA-256-Digest: FzKBmmZd3xlgySwK/P9VryWyvzOLgRu6TdXhbycqWtY=
+
+Name: res/drawable-hdpi-v4/ic_collapse_dataform_group.png
+SHA-256-Digest: crV6AzknLRxdFQSGHQ1f8eC6KfbZ2TnNGXH7jfVYTCI=
+
+Name: R.txt
+SHA-256-Digest: /t2uyenxfkhwuxoV2yIvmHU7+Th3BhUFTCHLkmPaDWw=
+
+Name: res/drawable-xxhdpi-v4/ic_token_remove_pressed.png
+SHA-256-Digest: cOf46dwE6m/gWIUM4ZbJLkDFUwyFOrfZ8ky8+RcB0U4=
+
+Name: res/drawable-v21/autocomplete_bg_normal.xml
+SHA-256-Digest: HQAbPKDjq5dOKTdRfHNq1JGFWj0A0cqk9vX4/ZQ1HgA=
+
+Name: res/drawable-xhdpi-v4/ic_clear.png
+SHA-256-Digest: P4kq5x+9rgABJxIdiQg5HHBagjOSbbDYzXayHjQVbfw=
+
+Name: res/anim/text_slide_out_to_bottom.xml
+SHA-256-Digest: Hjc4CmpC+rO3ClnvRMFImPCkdRNeTtitno8zBMBamro=
+
+Name: res/drawable-hdpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: T2vyQxqreDmbaeHIMGKZd7JrSIRM9fTuUUP5uPoD56I=
+
+Name: res/values-night-v8/values-night-v8.xml
+SHA-256-Digest: iuDLfN742CQEKnr13/H1CZ6o8cSkfWa7uCJFJS9GOoM=
+
+Name: res/layout/data_form_editor_layout_2.xml
+SHA-256-Digest: jtYqaw9QWvIL0u0Xtc+H+H0Yk4lhY6KdTXsrd/i5yq4=
+
+Name: res/layout/data_form_group_layout.xml
+SHA-256-Digest: 2Bx40j9qsn8oSDlttPDXSUO/V1+FZH5sgMnszt+RbFQ=
+
+Name: res/layout/data_form_time_editor.xml
+SHA-256-Digest: Q+xzYxqoBMJf/dYtsX1xjztKSe+NeIK0dGLSpOQpnTw=
+
+Name: res/drawable-xhdpi-v4/ic_token_remove_pressed.png
+SHA-256-Digest: E/if/yDXmwAUkCtR4hf2q3ah2I7+dHFYs7Zv0pHzKQE=
+
+Name: res/drawable-xxhdpi-v4/ic_clear.png
+SHA-256-Digest: +saAs6dB89wN4wBg74YdR8xMxD8h67WXZYxHpvYVPVQ=
+
+Name: res/drawable/events_popup_bg.xml
+SHA-256-Digest: wkJz4GdERRCEDZI3HSj5xdRVLVCbXD9T9erxXD3uymM=
+
+Name: res/drawable-xhdpi-v4/ic_collapse_dataform_group.png
+SHA-256-Digest: QqCZuoFaq14vfAXilvXCRnmznlRE62gqipBvMpTmCHg=
+
+Name: res/drawable-xxxhdpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: F9vsY8dD5PWJVtrok/U3RHPXlq1rtx0lp2yDzhsAvfk=
+
+Name: res/layout/inline_event.xml
+SHA-256-Digest: fr/WIfcLZZvLq7lYK9bgxORatJnlUuqXkC/lz2tYat4=
+
+Name: res/layout/data_form_radio_group_editor.xml
+SHA-256-Digest: 0zx+f/2aWWmc/f/+sbYSL4eKEfjEzlteqtYJm1kbKXQ=
+
+Name: res/drawable/data_form_valid_background.xml
+SHA-256-Digest: A9AaAMwmPd/jJ+5NpLsWlr4TZgIdWiaFtG9+PvR60Dw=
+
+Name: res/layout/data_form_editor_header_layout_1.xml
+SHA-256-Digest: RSGJXxCm5QEIVEHmG4PObLD9TmMoahycX87oqdBmsIo=
+
+Name: res/drawable-mdpi-v4/ic_token_remove_pressed_dark.png
+SHA-256-Digest: h6TKFtxJx7sgM47VpyEET49AZtgesA+ez/jxOZaS5DA=
+
+Name: res/drawable-hdpi-v4/ic_token_remove_pressed_dark.png
+SHA-256-Digest: MlaC2MHuQ8L4mtTqOR4xd/uoshC0O8slC1g3NXX2ZBU=
+
+Name: res/drawable/data_form_invalid_background.xml
+SHA-256-Digest: pmqK8bcQNyeoLse8DYMxJmHWn2AaqVOs8DNl+6G945U=
+
+Name: res/drawable-xhdpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: vi1g1tn+fLfyXymUzoOm0Y+eNbJcdsae+lU+u1SzV3Y=
+
+Name: res/layout/data_form_editor_header_layout_2.xml
+SHA-256-Digest: LMIY9x8qKqHB9WpARfXUi5uwDb/eXI8c1j2IjRbIeIM=
+
+Name: res/drawable-hdpi-v4/ic_token_remove_pressed.png
+SHA-256-Digest: 0VowH+CVsnKJ0gGBCkw4/qsGfQMporxceRXnwr4hj1M=
+
+Name: res/layout/calendar_agenda_week_view.xml
+SHA-256-Digest: zgzmBusQndZqqILE+Mt15TaDul6gE/xz6nujFco5Ya0=
+
+Name: res/layout/data_form_spinner_item.xml
+SHA-256-Digest: mRiYEReUY4mNnhpLlzv8HE3kf+C7rKuxpJwwWrDZI1E=
+
+Name: res/drawable-xhdpi-v4/ic_collapse_dataform_group_dark.png
+SHA-256-Digest: fUUb0qB+RLhGNSK6B0pm0CrysGz/HBwtmBBiar3mtYw=
+
+Name: res/layout/calendar_day_event_view.xml
+SHA-256-Digest: u26ELK2XgcKdFgmS6ssYF8vFL9nIiQs+s99a2cVisw8=
+
+Name: res/values-sw480dp-v13/values-sw480dp-v13.xml
+SHA-256-Digest: MwXuvi5aSg0heRm/PhWw8YbgsmtYSqT8RL/fgbP00oI=
+
+Name: res/drawable-hdpi-v4/ic_token_remove.png
+SHA-256-Digest: OMyKb1GCArtI6Hdvk5I2Tm+kE2RfX/7JA5swYR9G/DE=
+
+Name: res/drawable-xhdpi-v4/ic_clear_dark.png
+SHA-256-Digest: wNMIItPj6rRg7WrMQMDcQlL/cgFdL4fWUsvPOWy8FsM=
+
+Name: res/layout/calendar_agenda_month_view.xml
+SHA-256-Digest: Ci/zf7L2fyCsqEM3lHEI1cfoF7CTUZYrjhcMHXY7p6I=
+
+Name: res/drawable-xhdpi-v4/ic_token_remove_pressed_dark.png
+SHA-256-Digest: vwf3ZrMFizQH3/m2TjnWxYVhs6pE7MkdaV7v4m8fcUI=
+
+Name: res/layout/data_form_linear_layout.xml
+SHA-256-Digest: IQ+ZWyFfbfCFgieE7cnvhh43brMiiLgelSsXVUGh6bg=
+
+Name: res/values-sw720dp-v13/values-sw720dp-v13.xml
+SHA-256-Digest: dNr7ONEy+ljMk0A+r/Vw7RZ6m57DaDpXOjnvb3JnEg8=
+
+Name: res/drawable-hdpi-v4/ic_clear.png
+SHA-256-Digest: jXpw7DBUS+3XsCLUXdUqqYAgV722lLEXpr1w6pGQqvY=
+
+Name: res/drawable-xhdpi-v4/ic_token_remove_dark.png
+SHA-256-Digest: xnTDEFFonG3g3ziGSzoUeo2hH7QvvKK5IEqmkk9uQA0=
+
+Name: res/drawable-v21/autocomplete_focusable_bg.xml
+SHA-256-Digest: G2n13GjSIIesMGjquh5d0I0vtl0hgLZD8N0xOVeCYcA=
+
+Name: res/layout/suggestion_item_layout.xml
+SHA-256-Digest: sZvvKxJMJDzICs9bX5tVcPCkqLt72DMJ9JsJ0ExBKq8=
+
+Name: res/drawable-mdpi-v4/ic_token_remove_dark.png
+SHA-256-Digest: SKzFnr7Mt81ZS7sfEFOEbHOMAgDhN6+D4MfcHmUDJzw=
+
+Name: res/layout/calendar_all_day_event_view.xml
+SHA-256-Digest: Lfq0oZ876pkn7ZytizxB83rCMNIQ9gVCfMXFcB/+72A=
+
+Name: res/drawable-xxhdpi-v4/ic_collapse_dataform_group.png
+SHA-256-Digest: /dIWD9t8TPfsBnEwdbBOdXgX97azCtvqN4XjRCDvkrU=
+
+Name: res/drawable-xxxhdpi-v4/ic_token_remove.png
+SHA-256-Digest: HbbkXb8B95bEPsHgqdT5O4sySq/DDbiu2EARVXGmt5c=
+
+Name: res/values/values.xml
+SHA-256-Digest: rR+e4A7YYExRAUQ/5JMVCnThVWrZo4Nw7scnLXpo0So=
+
+Name: res/drawable-mdpi-v4/ic_token_remove.png
+SHA-256-Digest: wuuYTdFYkjTpost6ftvATPY9lS5FJQSana9CkdmuF6M=
+
+Name: res/layout/data_form_integer_editor.xml
+SHA-256-Digest: HVGVPLxd0JPdRT2Aofy84O9zjd6LhpPwPABJsreUtiw=
+
+Name: res/layout/calendar_agenda_sticky_header_view.xml
+SHA-256-Digest: ulf7qVY9z1eqvXd7yidrXhbVXnCSg2iKxjp0HJrAVqM=
+
+Name: res/layout/data_form_list_editor.xml
+SHA-256-Digest: hIGXC60RW0jvzkto3QCnEI1hTjB9Znj26FE4jI49Gvo=
+
+Name: res/layout/data_form_switch_editor.xml
+SHA-256-Digest: 9AHE6UwAWr0ltZyGPiZ36QdXlgfjiBomYl0+E6vxDHY=
+
+Name: res/layout/data_form_text_viewer.xml
+SHA-256-Digest: xpLn3eB7J18c3bGNNvCOs7uPLEccow5KOHAqEw0ejk0=
+
+Name: res/drawable-xxhdpi-v4/ic_add_white_24dp.png
+SHA-256-Digest: sl27JxhHpOfiCNCL7U7HmUUSn6LDVWfheb3+7eGWAFQ=
+
+Name: res/drawable-xhdpi-v4/ic_expand_dataform_group.png
+SHA-256-Digest: Ts6xFmAchHtZBSYmM5aOa6hmQwPI6URF2mr6exSGits=
+
+Name: res/layout/calendar_agenda_day_view.xml
+SHA-256-Digest: 1VJSgS5v8CX94shJPww2jq3vwqvytLoyAxf2Roak1U4=
+
+Name: res/drawable-hdpi-v4/ic_expand_dataform_group.png
+SHA-256-Digest: GKZTl7l+RP+CT2H/cgeUw8aw8CDu1JsEGbuP3odMHFg=
+
+Name: res/layout/data_form_root_layout.xml
+SHA-256-Digest: uBZVXFxgot/tAuzEDd3Nn0Z1vvpyEUl308ogIWzpYh0=
+
+Name: res/drawable/data_form_list_item_states.xml
+SHA-256-Digest: xCUZPWzWvwQgzVP0iv956O7MmlvUu5LL8QhT/TwTwEs=
+
+Name: res/layout/data_form_decimal_editor.xml
+SHA-256-Digest: bhAn9iDW1PfGbJmf6vbpcZBRLKi2+pxmylFUiZRzjco=
+
+Name: res/drawable-mdpi-v4/ic_clear.png
+SHA-256-Digest: CGI6d8Q6ID/UQmK+Tztsv/ikCVJjUUKaExdcYfhH6Mk=
+
+Name: res/layout/popup_event.xml
+SHA-256-Digest: bHeLtmwCCLId34FnNY9Ld1frIAn9cpZBBXsxl7V9o3o=
+
+Name: res/layout/data_form_toggle_button_editor.xml
+SHA-256-Digest: 8j8vfzLlmtft0ZqNlFlXz1b9Z4VRRHZewQc9hFwWiOw=
+
+Name: res/layout/data_form_text_editor.xml
+SHA-256-Digest: gHHS1CM7QfrZw4KcbxEkgqzLxLpCDdPUB6IFCWb8FKU=
+
+Name: res/layout/calendar_agenda_sticky_header_separator.xml
+SHA-256-Digest: uxh+/wxLqA7dcLAy8JPrRlO0uOrh69lB7RKJnnjwKCE=
+
+Name: res/drawable-mdpi-v4/ic_collapse_dataform_group.png
+SHA-256-Digest: wnZZXwSRbfE++yMaCzyLYfpXTxCciV/NEhlPWsZWj7Y=
+
+Name: res/drawable-xxxhdpi-v4/ic_token_remove_pressed.png
+SHA-256-Digest: dLZGPkxeEpF2V94FtAJL7X3LhK0StHOP/4wXSxIP7mQ=
+
+Name: res/layout/data_form_date_editor.xml
+SHA-256-Digest: dWlRKTS6BNhr+UiZAPvN+8e2WF+ieKI5oeS06KntGUE=
+
+Name: res/layout/data_form_rad_autocomplete_editor.xml
+SHA-256-Digest: 04g8jS+Vbh5hk41nJBF0NDISMvCKjIwcTfKfCwaZSbg=
+
+Name: res/values-sw320dp-v13/values-sw320dp-v13.xml
+SHA-256-Digest: NTG5/bVZUGywExwRhqDkPb4IMSenRmeMKOy+oSJ4d/E=
+
+Name: res/drawable-xxxhdpi-v4/ic_collapse_dataform_group.png
+SHA-256-Digest: SMba5at2t2TWeJeW7ajDhLcAaJ9OmHxtILHaaoHUGLw=
+
+Name: res/layout/data_form_default_group_layout.xml
+SHA-256-Digest: 9Cq3fc1E2Y0CU/b5MAzyiwL43nfkcofuDbVCFKedCpY=
+
+Name: res/layout/data_form_autocomplete_editor.xml
+SHA-256-Digest: aSrGWFYVnNUpN9a+eYkqZcv/RzYQUCZloc9gCYQjdgg=
+
+Name: annotations.zip
+SHA-256-Digest: Tj/RRtnfR43otYjMdubiD+c68B5mqbrwXID/2M0nrvE=
+
+Name: classes.jar
+SHA-256-Digest: 3uIxWeObHpNkKR+UiIsQ00sg5qNmOMJshEUAXNvWXRU=
+
+Name: res/layout/data_form_number_picker.xml
+SHA-256-Digest: SIt16qLLrO4zke4W29JhEv8HTm2DmCo95dVZnGuEjLc=
+
+Name: res/anim/text_slide_in_from_bottom.xml
+SHA-256-Digest: Hzndgbl68fCMAFyZU5prUOY69cA7OXBmjB0C8vFwjGU=
+
+Name: res/drawable-anydpi-v21/ic_add_white_24dp.xml
+SHA-256-Digest: zsokyzKPMqCGsl2B5uji9gOiQFUGGSP8BpUxGDiRMLI=
+
+Name: res/drawable-v21/autocomplete_bg_active.xml
+SHA-256-Digest: 3MyQkPxHfIoW/I1kRZH8yPuGp6B0BXuHYiZMJHg7J2Q=
+
+Name: res/drawable-hdpi-v4/ic_token_remove_dark.png
+SHA-256-Digest: 6mCwkkCMCOaSlv9X3jBaweTMUkVotzrpRTiBeXxCEMk=
+
+Name: res/layout/data_form_editor_layout_1.xml
+SHA-256-Digest: 3NuX5tAUyWG/fFrwVBpowHp1FdrVhcWQBnPG5IfD/dU=
+
+Name: res/layout/data_form_spinner_editor.xml
+SHA-256-Digest: YdPnaRrsOLtuIAv+oNxM3AM9L2VK0nnZvlkI+2KbHlQ=
+
+Name: res/layout/calendar_agenda_appointment_view.xml
+SHA-256-Digest: wz0DzkRQSYQEvcWgK9GKpQQbB/I8z4nAT7/bYPqCim4=
+
+Name: res/layout/data_form_expandable_group_layout.xml
+SHA-256-Digest: ZqR8t2iIZNDC8vdm3VgRLJZ3M2pg6B4vx7/+q/vZ2nE=
+
+Name: res/anim/text_slide_out_to_top.xml
+SHA-256-Digest: kGHV//GmLrbxmthldH0Niqfa2axZu0BaTcbo1CYSyNM=
+
+Name: res/drawable-xxhdpi-v4/ic_token_remove.png
+SHA-256-Digest: +5jfQ6kHztckBzFBiWwF01yEA58WLx3pj9H29yssVjc=
+
+Name: res/drawable-mdpi-v4/ic_collapse_dataform_group_dark.png
+SHA-256-Digest: 1060HYOoMunVm9OJXvOr5lL6HnBtMLRY1lnVQrAhtNY=
+
+Name: res/layout/data_form_seek_bar_editor.xml
+SHA-256-Digest: TW8Kg/PEn5kuB6sEdHex/zTtZeGxAeC7btCkPddAZYg=
+
+Name: res/drawable-xxxhdpi-v4/ic_clear.png
+SHA-256-Digest: RT6cgbW8zJ5JZ8vlsFHJBU+JgYq3SXARpLnduHC30tQ=
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:telerik="http://schemas.telerik.com/2022/xaml/maui"
+             x:Class="WatchStore.Maui.Views.WatchListPage"
+             Title="Watch List">
+
+    <telerik:RadBusyIndicator x:Name="busyIndicator" 
+                              IsBusy="{Binding IsLoading}"
+                              AnimationContentHeightRequest="100"
+                              AnimationContentWidthRequest="100">
+        
+        <telerik:RadBusyIndicator.Content>
+            <Grid BackgroundColor="#FAFAFA">
+                <RefreshView IsRefreshing="{Binding IsLoading}"
+                             Command="{Binding LoadWatchesCommand}">
+                    
+                    <telerik:RadCollectionView x:Name="collectionView" ItemsSource="{Binding Watches}">
+                        
+                        <telerik:RadCollectionView.ItemsLayout>
+                            <telerik:CollectionViewGridLayout SpanCount="4"
+                                                   Orientation="Vertical"
+                                                   HorizontalItemSpacing="10"
+                                                   VerticalItemSpacing="10" />
+                        </telerik:RadCollectionView.ItemsLayout>
+
+                        <telerik:RadCollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <telerik:RadBorder Padding="10"
+                                                   BackgroundColor="White"
+                                                   CornerRadius="15"
+                                                   HorizontalOptions="Center"
+                                                   MinimumWidthRequest="430"
+                                                   MinimumHeightRequest="430">
+
+                                    <telerik:RadBorder.Shadow>
+                                        <Shadow Radius="15" Opacity="0.2" Offset="0,0"/>
+                                    </telerik:RadBorder.Shadow>
+                                    
+                                    <Grid RowDefinitions="280,45,*" RowSpacing="6">
+
+                                        <Image Grid.Row="0"
+                                           Source="{Binding ImageUrl}"
+                                           HeightRequest="280"
+                                           WidthRequest="280"
+                                           Aspect="AspectFit"
+                                           HorizontalOptions="Center"
+                                           VerticalOptions="Center" />
+
+                                        <Label Grid.Row="1"
+                                           Text="{Binding Name}"
+                                           TextColor="Black"
+                                           FontSize="16"
+                                           FontAttributes="Bold"
+                                           MaxLines="2"
+                                           LineBreakMode="TailTruncation"
+                                           HorizontalTextAlignment="Center" />
+
+                                        <Label Grid.Row="2"
+                                           Text="{Binding Price, StringFormat='{0:N0} đ'}"
+                                           FontSize="20"
+                                           FontAttributes="Bold"
+                                           TextColor="#0F766E"
+                                           HorizontalTextAlignment="Center"
+                                           VerticalOptions="End" />
+
+                                    </Grid>
+                                </telerik:RadBorder>
+                            </DataTemplate>
+                        </telerik:RadCollectionView.ItemTemplate>
+                    </telerik:RadCollectionView>
+                    
+                </RefreshView>
+            </Grid>
+        </telerik:RadBusyIndicator.Content>
+        
+    </telerik:RadBusyIndicator>
+</ContentPage>

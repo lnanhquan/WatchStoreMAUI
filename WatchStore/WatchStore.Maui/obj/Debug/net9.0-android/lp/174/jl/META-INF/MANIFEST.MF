@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+
+Name: classes.jar
+SHA-256-Digest: ch5JKaNsDPv3QRnYycL5F8CuiRAzh7mZKuRJrOpuUa4=
+
+Name: res/values/values.xml
+SHA-256-Digest: GLDjC/wRvNBXTSIHPaRv1vJk/jSZnIuS1XIVkHMWkDY=
+
+Name: res/xml/chart_palettes_default_light.xml
+SHA-256-Digest: 30vW6s1v+Jqi/ldLKxWA2eB+f2WSelY9+5pXxdtOIyI=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: DaI4X0vyyvtl1nDYOTKN+XvGqO9xL1iCEUaMIohnPtg=
+
+Name: res/xml/chart_palettes_default_dark.xml
+SHA-256-Digest: voW6xBMnpQqgMkTJJVty2Lb7W+JerF1C0GWYajtyKzk=
+
+Name: res/layout/default_trackball_item_content.xml
+SHA-256-Digest: V4AJ5r+O8Xc7yeamlJUF4rkHKauQgNjwc/HOi4TKgYA=
+
+Name: res/xml/chart_palettes_light_selected.xml
+SHA-256-Digest: 6Cs/CqresT9mROyOH1HBYNKq9H3um4cBMzXXnQCMu6s=
+
+Name: res/layout/range_trackball_item_content.xml
+SHA-256-Digest: lBUDpcXDuLnTVzGUZL6n0ObcRafZHGo3J17rgVgwD2E=
+
+Name: res/layout/radlegendcontrol.xml
+SHA-256-Digest: ktLaSTessIB2BRci7DVa7ZamAIvYJutTBHSnWsCWVe0=
+
+Name: res/xml/chart_palettes_dark_selected.xml
+SHA-256-Digest: 2x1T5po1noqkpEsND1ZqxIRU5cJzdz/HDLb2dlDuNZ4=
+
+Name: res/layout/default_trackball_content.xml
+SHA-256-Digest: XT7jkBExdLPO2SDi/cGVgL6KryOVRNcRoMinK9UFgWk=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: nMhRe73wbYefV6LP1vjGkU5IgA1ENCHNhQlxlF+Y57I=
+
+Name: R.txt
+SHA-256-Digest: SlEvbQVUTIHz1HbEikX+fwzxC5SePDmCr/pNYfgtcTY=
+
+Name: res/layout/legend_item_view.xml
+SHA-256-Digest: 246SeFuSqZsCzVLk066lY8IzXtL84SZ2ymEe1JooQP4=
+
+Name: res/layout/trackball_container.xml
+SHA-256-Digest: HrTyU7XvMgnTuMfdrWfDnEybkYopwJDf3N5rHtPiO38=
+
+Name: res/layout/ohlc_trackball_item_content.xml
+SHA-256-Digest: ZzZhkOR7JwTbm6ay5s7QZXsha3eecJHBq5+M39xDqYs=
+
+Name: res/layout/default_tooltip_scatter_content.xml
+SHA-256-Digest: kuKMdg2aqBHgoDSdW+3y+zIOHInu9qOTHKpegVbHSrw=
+
+Name: res/layout/radchartbase.xml
+SHA-256-Digest: e9BotTO5YvChWiZvJoRAPjKNGa2ri9MCJTAduHc3aEM=
+
+Name: res/layout/default_tooltip_scatter_bubble_content.xml
+SHA-256-Digest: mC3slj/oUTeVK6kMqgd02aWxA8jKASB3PZFMnC7prec=
+
+Name: res/layout/default_tooltip_ohlc_content.xml
+SHA-256-Digest: hDOijklF8aVAOxIv0K1P176fo+08T9v28AarfMwyZEQ=
+

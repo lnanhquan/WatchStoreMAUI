@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+
+Name: classes.jar
+SHA-256-Digest: 8qfraOKF/XWCRtroaqcUpqZdQwepLOqcukCxRbshtuQ=
+
+Name: res/anim/drawer_slide_in_top.xml
+SHA-256-Digest: 4gZjC0aAZkDSoULEtlf65m2MvHfuBaeNB0kCWTQ6Z/U=
+
+Name: res/drawable/hamburger.xml
+SHA-256-Digest: zgJ6QV1VytOZJlB7P+ShnmaGv9Xxh2HOrgX1MAdAJt4=
+
+Name: res/values/values.xml
+SHA-256-Digest: lMRTvYkvE60iFTakLmTHZ62drxO2FNB6xE02UKBm9KI=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: vg+18XR8mP/HciEe16N2mqyh2XpthP77mjV7syxjoEw=
+
+Name: res/layout/tab_item_view.xml
+SHA-256-Digest: 20eq0hzid7Sq8l3ryMIPu8vdfJvtXs8OQZlh2qIso4s=
+
+Name: res/drawable/tab_view_popup_background.xml
+SHA-256-Digest: FYyefB/l9GLuKVHoWgNW28U7bisf2o1m2oL6lQLR+TU=
+
+Name: res/layout/scrollview_scrollbars.xml
+SHA-256-Digest: O3ZM2yTfUVaxpjGl82pzDhBsxeMBhtCyaTH9ZhnAWUY=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: nMhRe73wbYefV6LP1vjGkU5IgA1ENCHNhQlxlF+Y57I=
+
+Name: R.txt
+SHA-256-Digest: OZ8WlPK+hw7j1B49cl3i9v+CIqLBjFlENMpKiUmEltg=
+
+Name: res/drawable-mdpi-v4/hmb.png
+SHA-256-Digest: VRZ1dVtNHTNR/jH22duv7nDcJb7v66LEpzRWxGy1kxY=
+
+Name: res/layout/navigation_drawer_content.xml
+SHA-256-Digest: GmnLcq0m1QoU6tAQ0Qa9aJvYB3q2oykzn44Y8E8zGqU=
+
+Name: res/layout/tooltip_container.xml
+SHA-256-Digest: w6f+01aErB9FQnCc8l2H+VOVso3573PUyVPIpQ/qQR0=
+
+Name: res/layout/navigation_item_view.xml
+SHA-256-Digest: r8qovDgujofSVPcjgN2tLrjc6ULsKF7kmrArkALewf0=
+
+Name: res/anim/drawer_slide_out_top.xml
+SHA-256-Digest: 4gZjC0aAZkDSoULEtlf65m2MvHfuBaeNB0kCWTQ6Z/U=
+
+Name: res/drawable-hdpi-v4/hmb.png
+SHA-256-Digest: u+gGFnJs+wyxzFgx7TvigNZmtyM/oBjV6Fk0Nw2JOV0=
+
+Name: res/layout/default_tooltip_content.xml
+SHA-256-Digest: BJClZYO68vbhy3hKRz/SHvajuiZPNeixEwJ9NTO87b0=
+
+Name: res/layout/drawer_blur_fade_layer.xml
+SHA-256-Digest: 3khQ5zFYP1Uobzz1+U9UZ7IDGBv4rGhLLJ6PiAyF4o8=
+
+Name: res/drawable-xxxhdpi-v4/hmb.png
+SHA-256-Digest: LhW8gFDzofaKWxOdfomH7IZiQ2Wl41d2XSsvKUrjLds=
+
+Name: annotations.zip
+SHA-256-Digest: P0ZKNd7M+NHF/Ru6DDifvgQMxwwNxlB3mGUiXML8r2A=
+
+Name: res/drawable-xhdpi-v4/hmb.png
+SHA-256-Digest: ZYJTV9HoiGFTLsG3ekCNXzb3M81u5mmQyacfUM5ejAM=
+
+Name: res/drawable-xxhdpi-v4/hmb.png
+SHA-256-Digest: v8DtR6E766LBIfbQYWUh2l7NzEhyrw3dS73+FSY90lQ=
+

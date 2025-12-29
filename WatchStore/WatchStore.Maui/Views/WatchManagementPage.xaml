@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:telerik="http://schemas.telerik.com/2022/xaml/maui"
+             x:Class="WatchStore.Maui.Views.WatchManagementPage"
+             Title="Watch Management">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <DataTemplate x:Key="TemplateForRowDetails">
+                <Border Stroke="#DDDDDD"
+                        StrokeThickness="1"
+                        Background="#F7F7F7"
+                        Padding="15"
+                        Margin="10"
+                        StrokeShape="RoundRectangle 12">
+
+                    <Grid ColumnDefinitions="210,*"
+                          ColumnSpacing="30">
+
+                        <Border Stroke="#CCCCCC"
+                                StrokeShape="RoundRectangle 12"
+                                BackgroundColor="White"
+                                Padding="2"
+                                HorizontalOptions="Start">
+
+                            <Image Source="{Binding ImageUrl}"
+                                   HeightRequest="200"
+                                   WidthRequest="200"
+                                   Aspect="AspectFill"/>
+                        </Border>
+
+                        <VerticalStackLayout Grid.Column="1" Spacing="10">
+
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Created By: " FontAttributes="Bold" TextColor="#333"/>
+                                <Label Text="{Binding CreatedBy}" TextColor="#555"/>
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Updated By: " FontAttributes="Bold" TextColor="#333"/>
+                                <Label Text="{Binding UpdatedBy}" TextColor="#555"/>
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Deleted By: " FontAttributes="Bold" TextColor="#333"/>
+                                <Label Text="{Binding DeletedBy}" TextColor="#555"/>
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Spacing="5">
+                                <Label Text="Deleted At: " FontAttributes="Bold" TextColor="#333"/>
+                                <Label Text="{Binding DeletedAt}" TextColor="#555"/>
+                            </HorizontalStackLayout>
+
+                        </VerticalStackLayout>
+
+                    </Grid>
+                </Border>
+            </DataTemplate>
+
+            <Style x:Key="DataPagerNumericButtonStyle" TargetType="telerik:DataPagerButton">
+                <Setter Property="FontSize" Value="13.5" />
+            </Style>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <telerik:RadBusyIndicator x:Name="BusyIndicator" 
+                              IsBusy="{Binding IsLoading}"
+                              AnimationContentHeightRequest="100"
+                              AnimationContentWidthRequest="100">
+
+        <telerik:RadBusyIndicator.Content>
+            <Grid RowDefinitions="*,Auto">
+
+                <telerik:RadDataGrid x:Name="dataGrid" 
+                                     ItemsSource="{Binding PagedSource, Source={Reference dataPager}}"
+                                     RowDetailsTemplate="{StaticResource TemplateForRowDetails}"
+                                     Grid.Row="0"
+                                     AutoGenerateColumns="False"
+                                     CanUserReorderColumns="False"
+                                     UserEditMode="Cell"
+                                     SelectionMode="Single"
+                                     SelectionUnit="Cell"
+                                     CanUserExpandMultipleRowDetails ="False"
+                                     AutoExpandGroups="False">
+
+                    <telerik:RadDataGrid.SearchSettings>
+                        <telerik:DataGridSearchSettings SearchPanelVisibilityMode="AlwaysVisible"
+                                                            SearchTrigger="TextChanged"
+                                                            TextMatchMode="Contains"
+                                                            ApplyFilter="True"/>
+                    </telerik:RadDataGrid.SearchSettings>
+
+                    <telerik:RadDataGrid.Columns>
+                        <telerik:DataGridToggleRowDetailsColumn Width="50" />
+
+                        <telerik:DataGridTextColumn HeaderText="Name"
+                                                        PropertyName="Name"
+                                                        SizeMode="Stretch"
+                                                        CanUserFilter="False"
+                                                        CanUserGroup="False"/>
+
+
+                        <telerik:DataGridTextColumn HeaderText="Category"
+                                                        PropertyName="Category"
+                                                        SizeMode="Stretch"/>
+
+                        <telerik:DataGridTextColumn HeaderText="Brand"
+                                                        PropertyName="Brand"
+                                                        SizeMode="Stretch"/>
+
+                        <telerik:DataGridNumericalColumn HeaderText="Price"
+                                                             PropertyName="Price"
+                                                             CellContentFormat="{}{0:N0} đ"
+                                                             SizeMode="Stretch"
+                                                             CanUserFilter="False"
+                                                             CanUserGroup="False"/>
+
+                        <telerik:DataGridDateColumn HeaderText="Created At"
+                                                        PropertyName="CreatedAt"
+                                                        CellContentFormat="{}{0:dd/MM/yyyy}"
+                                                        SizeMode="Stretch"
+                                                        CanUserGroup="False"/>
+
+                        <telerik:DataGridDateColumn HeaderText="Updated At"
+                                                        PropertyName="UpdatedAt"
+                                                        CellContentFormat="{}{0:dd/MM/yyyy}"
+                                                        SizeMode="Stretch"
+                                                        CanUserGroup="False"/>
+
+                        <telerik:DataGridBooleanColumn HeaderText="Is Deleted"
+                                                           PropertyName="IsDeleted"
+                                                           SizeMode="Stretch"/>
+
+                    </telerik:RadDataGrid.Columns>
+
+                </telerik:RadDataGrid>
+
+                <telerik:RadDataPager x:Name="dataPager" 
+                                      Source="{Binding Watches}"
+                                      Grid.Row="1"
+                                      MaxNumericButtonsCount ="10"
+                                      ItemSpacing="10"
+                                      PageSize="10"
+                                      NumericButtonStyle="{StaticResource DataPagerNumericButtonStyle}"/>
+                
+            </Grid>
+        </telerik:RadBusyIndicator.Content>
+
+    </telerik:RadBusyIndicator>
+    
+</ContentPage>

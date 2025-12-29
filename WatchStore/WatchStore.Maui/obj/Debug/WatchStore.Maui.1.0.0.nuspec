@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WatchStore.Maui</id>
+    <version>1.0.0</version>
+    <authors>WatchStore.Maui</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0-android35.0">
+        <dependency id="CommunityToolkit.Mvvm" version="8.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="9.0.111" exclude="Build,Analyzers" />
+        <dependency id="Telerik.UI.for.Maui" version="12.1.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net9.0-windows10.0.19041">
+        <dependency id="CommunityToolkit.Mvvm" version="8.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="9.0.111" exclude="Build,Analyzers" />
+        <dependency id="Telerik.UI.for.Maui" version="12.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\WatchStore.Maui.runtimeconfig.json" target="lib\net9.0-android35.0\WatchStore.Maui.runtimeconfig.json" />
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\WatchStore.Maui.dll" target="lib\net9.0-android35.0\WatchStore.Maui.dll" />
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\WatchStore.Maui.xml" target="lib\net9.0-android35.0\WatchStore.Maui.xml" />
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\WatchStore.Maui.runtimeconfig.json" target="lib\net9.0-windows10.0.19041\WatchStore.Maui.runtimeconfig.json" />
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\WatchStore.Maui.dll" target="lib\net9.0-windows10.0.19041\WatchStore.Maui.dll" />
+    <file src="C:\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\resources.pri" target="lib\net9.0-windows10.0.19041\resources.pri" />
+  </files>
+</package>

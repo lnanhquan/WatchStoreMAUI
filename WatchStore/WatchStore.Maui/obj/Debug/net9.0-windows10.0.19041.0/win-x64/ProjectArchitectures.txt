@@ -1,0 +1,1 @@
+C:\WatchStore\WatchStore.Maui\WatchStore.Maui.csproj;x64

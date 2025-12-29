@@ -1,0 +1,66 @@
+Signature-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: Wje02AGzKtLdqNn/ifoSSQLSctyyrORt9vUUDgW78Ak=
+SHA-256-Digest-Manifest-Main-Attributes: m7DJayaOOjfnPjeD2aOw22Bl0fTpGI/
+ 7buK6mOCd50A=
+
+Name: classes.jar
+SHA-256-Digest: uBR6RwdX0msqALi9qvbN34ktpoTUWkdB80OLF6yRET4=
+
+Name: res/values/values.xml
+SHA-256-Digest: jFXhmsJ4DuMv/fRLWMGEXJsWJrpas4cuPuiK/umzh1w=
+
+Name: res/xml/chart_palettes_default_light.xml
+SHA-256-Digest: aKHH3LY3Vwqmv8CZLCu1VX6bJjPFAId1oXvrSwZevfw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: dpSN8q/l0YbFg44IvSd8mqn8eI+2/DkvP9hi/Q02N8k=
+
+Name: res/xml/chart_palettes_default_dark.xml
+SHA-256-Digest: iyZ+lot02wTObY8OWTNvkvtek+/On+viHG8irvPKOU4=
+
+Name: res/layout/default_trackball_item_content.xml
+SHA-256-Digest: YVVJIabhQfAc7uhShQsvdHT5OSWVRlZfSeYVdNxydxs=
+
+Name: res/xml/chart_palettes_light_selected.xml
+SHA-256-Digest: G1EbRZv7aFEoSqj+Xr0kWEnQjQqGYzzboFaflcgZ29w=
+
+Name: res/layout/range_trackball_item_content.xml
+SHA-256-Digest: aqyzTXGuTHNb9zbjAYEhLaOwfpS2EZYjzBKG0Wmjfq8=
+
+Name: res/layout/radlegendcontrol.xml
+SHA-256-Digest: hYC+MhznWFqZvu//mvXKeQlZ1EPtjET9v+hK/Htxkwg=
+
+Name: res/xml/chart_palettes_dark_selected.xml
+SHA-256-Digest: Jm0c/RJCoguSJz+LH/R4Vg+BYmUhd7QL4mOTKfo4rLk=
+
+Name: res/layout/default_trackball_content.xml
+SHA-256-Digest: aqDLPNbz+J2tSyg1EpevnOqvRwB2XYBU8/oKWjPjLRo=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: AoVAD6eppUW57iQjjPJaU5MKKo7pcObgxo+dfZQ/71k=
+
+Name: R.txt
+SHA-256-Digest: Xy/3iNE/56Yfx5nVuHLRBGXjBcrnvDN8YMYoIT6dXqo=
+
+Name: res/layout/legend_item_view.xml
+SHA-256-Digest: IXR0BJVc89io1hQ+CJRTpEWJcf/v5qCSRrfI9TcdODo=
+
+Name: res/layout/trackball_container.xml
+SHA-256-Digest: QTkTCUoH5xuNUh7d1VwyyVK2Lj95i6B/I7W5x5ADPyE=
+
+Name: res/layout/ohlc_trackball_item_content.xml
+SHA-256-Digest: TGy+W1u/UY0d7VUTveK6HTEQag1xp/BuBjJWvYtVE2U=
+
+Name: res/layout/default_tooltip_scatter_content.xml
+SHA-256-Digest: UrBLsOkqpck8TAB+9H4vvfwZQRSg/k7GeVIbaI/9c2U=
+
+Name: res/layout/radchartbase.xml
+SHA-256-Digest: p5devzAKwLEootNYsAwqdJbwqr9ffqCGshU4Ywib+ZU=
+
+Name: res/layout/default_tooltip_scatter_bubble_content.xml
+SHA-256-Digest: T6B5Vaop/PguF2v0PzR0uCIho8Nt0kQnVyXQ8oBohTw=
+
+Name: res/layout/default_tooltip_ohlc_content.xml
+SHA-256-Digest: JRh6sCgHSsUmBbleKmiZgbjPIOTZYTuUf7keiFS96K4=
+

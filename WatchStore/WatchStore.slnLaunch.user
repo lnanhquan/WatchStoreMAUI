@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "WatchStore",
+    "Projects": [
+      {
+        "Path": "WatchStore.Api\\WatchStore.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "WatchStore.Maui\\WatchStore.Maui.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      }
+    ]
+  }
+]

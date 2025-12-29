@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WatchStore.Maui.MainPage"
+             xmlns:telerik="http://schemas.telerik.com/2022/xaml/maui"
+             Title="Watch Store">
+
+    <ScrollView>
+        <Grid HorizontalOptions="Center">
+            <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center">
+                <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+                <Label
+                Text="Hello, World!"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+                <Label
+                Text="Welcome to &#10;.NET Multi-platform App UI"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App UI" />
+
+                <telerik:RadButton x:Name="ButtonWatchList"
+                               Text="Watch List"
+                               FontSize ="20"
+                               WidthRequest="250"
+                               HeightRequest="60"
+                               CornerRadius="10"
+                               BackgroundColor="#2563EB"
+                               TextColor="White"
+                               Clicked="OnWatchListClicked"/>
+
+                <telerik:RadButton x:Name="ButtonWatchManagement"
+                               Text="Watch Management"
+                               FontSize ="20"
+                               WidthRequest="250"
+                               HeightRequest="60"
+                               CornerRadius="10"
+                               BackgroundColor="#0F766E"
+                               TextColor="White"
+                               Clicked="OnWatchManagementClicked"/>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

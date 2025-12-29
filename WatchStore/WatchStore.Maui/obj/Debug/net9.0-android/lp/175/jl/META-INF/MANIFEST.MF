@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+
+Name: classes.jar
+SHA-256-Digest: bPkN7p8jBaEuEBpkENnUG+3Lvpr59bBqTsgwYdRM3VM=
+
+Name: res/values/values.xml
+SHA-256-Digest: ubeHHxnDV2lUoLPDAlcw2Th1xxWFKZ5K8058M1QrYf4=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: +lW6sdX9s9J7Al5c0Yh3rDMnBzWlpEW5HnaGM6lD7O4=
+
+Name: res/layout/trial_message.xml
+SHA-256-Digest: k82VAuLyKNNihn4G4VcNQFew5bTuSjuGS9ikQtI2suk=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: nMhRe73wbYefV6LP1vjGkU5IgA1ENCHNhQlxlF+Y57I=
+
+Name: R.txt
+SHA-256-Digest: rDeeoUeLV/1Yh82cRmR2AHWSQaeOjNa1SmUoWM8QSL8=
+

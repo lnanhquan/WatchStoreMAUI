@@ -1,0 +1,72 @@
+Signature-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: b1xmfXzGmsJbjkK9SNGFesp0PQn3K2AdqPfeVOFRs98=
+SHA-256-Digest-Manifest-Main-Attributes: m7DJayaOOjfnPjeD2aOw22Bl0fTpGI/
+ 7buK6mOCd50A=
+
+Name: classes.jar
+SHA-256-Digest: n12E1jH46TinZeP6QgElKiFxlAoLxwnf2yL0yIrRn+E=
+
+Name: res/anim/drawer_slide_in_top.xml
+SHA-256-Digest: B2sNQ2QiNj8thXFjDgoVH8ES9qATgkB2nL6m1Aj9NNU=
+
+Name: res/drawable/hamburger.xml
+SHA-256-Digest: 0iPeZ4Xico//XddsJyvjq19kAmCtwtCQuFFg+Yx99ec=
+
+Name: res/values/values.xml
+SHA-256-Digest: 78GskLO2zImd3WFgRVuYyWVsTu32EAsATUZ0S7kcPUw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: ve8whCZVXhfii1e/PuwmsotXdc2ws+O8W2dkukJCupg=
+
+Name: res/layout/tab_item_view.xml
+SHA-256-Digest: G7n0m6+r11LdSGJ97c7cpKgpQ8lo5M75sYLDhSnZWTA=
+
+Name: res/drawable/tab_view_popup_background.xml
+SHA-256-Digest: 27U4iYrzEU/prmm803BB18zQHbWZKYETFZbiWjlGwAs=
+
+Name: res/layout/scrollview_scrollbars.xml
+SHA-256-Digest: y1kMJLqJUaiu9oM2z81aiu2vqsNWYka7IOM0zcZxKGY=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: AoVAD6eppUW57iQjjPJaU5MKKo7pcObgxo+dfZQ/71k=
+
+Name: R.txt
+SHA-256-Digest: xavGZr4rgvAd5M8+K1VdcOMXxuDACwvMXbq33Q64VH8=
+
+Name: res/drawable-mdpi-v4/hmb.png
+SHA-256-Digest: 57mIrsemDU5BN+U3j7XyGI+KnCTDZ2ykXI65UvAFATk=
+
+Name: res/layout/navigation_drawer_content.xml
+SHA-256-Digest: TuLoUFnCTnRwZid1YUp544h84AOfOG25FCgx2MkWiHQ=
+
+Name: res/layout/tooltip_container.xml
+SHA-256-Digest: sNud2OeqdouAAsKluQr7Js+W5l1ctVBCh1tfB7p/n/I=
+
+Name: res/layout/navigation_item_view.xml
+SHA-256-Digest: CnKzXt8X0PGf+Zl81axLmOWFXpWGme8jBHqodXQCJbw=
+
+Name: res/anim/drawer_slide_out_top.xml
+SHA-256-Digest: 6/0iRWI43wmFTHRmCFIbWRXjP97ze2gv1SkakbMWMtc=
+
+Name: res/drawable-hdpi-v4/hmb.png
+SHA-256-Digest: oP1qE73zltv4qtd2/8D/ZKgz2TNRlYOcuM0yn+xeHSA=
+
+Name: res/layout/default_tooltip_content.xml
+SHA-256-Digest: rkmnXtjlDjOX1Q3xIfdyI4CGtzgG6oXcJhNSD+49Eb8=
+
+Name: res/layout/drawer_blur_fade_layer.xml
+SHA-256-Digest: pq8z5lrW9UZ60Mqm5W8wkOgQH8zRTke91Oanur2YY0k=
+
+Name: res/drawable-xxxhdpi-v4/hmb.png
+SHA-256-Digest: zituPPCw2mCxzsdBD0wdjhszkE/NX0OX0taLx9oLnAw=
+
+Name: annotations.zip
+SHA-256-Digest: xIJieKnjWi3ZLBJPepPnOsXWvePMhdFqzJxuu3YCmKU=
+
+Name: res/drawable-xhdpi-v4/hmb.png
+SHA-256-Digest: knameqo1m2GAcJAd2SpVCUbOa8kNyaBrG9KZGn7n6Xc=
+
+Name: res/drawable-xxhdpi-v4/hmb.png
+SHA-256-Digest: PjDZBEbDGhA7uvmiVQG/WmPSOFLrbX+HhJ6R6dUxJzw=
+

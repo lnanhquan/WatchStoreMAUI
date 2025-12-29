@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WatchStore.Maui</name>
+    </assembly>
+    <members>
+        <member name="T:WatchStore.Maui.ViewModels.WatchListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:WatchStore.Maui.ViewModels.WatchListViewModel.IsLoading">
+            <inheritdoc cref="F:WatchStore.Maui.ViewModels.WatchListViewModel.isLoading"/>
+        </member>
+        <member name="F:WatchStore.Maui.ViewModels.WatchListViewModel.loadWatchesCommand">
+            <summary>The backing field for <see cref="P:WatchStore.Maui.ViewModels.WatchListViewModel.LoadWatchesCommand"/>.</summary>
+        </member>
+        <member name="P:WatchStore.Maui.ViewModels.WatchListViewModel.LoadWatchesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:WatchStore.Maui.ViewModels.WatchListViewModel.LoadWatchesAsync"/>.</summary>
+        </member>
+        <member name="T:WatchStore.Maui.ViewModels.WatchManagementViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:WatchStore.Maui.ViewModels.WatchManagementViewModel.IsLoading">
+            <inheritdoc cref="F:WatchStore.Maui.ViewModels.WatchManagementViewModel.isLoading"/>
+        </member>
+        <member name="F:WatchStore.Maui.ViewModels.WatchManagementViewModel.loadWatchesAdminCommand">
+            <summary>The backing field for <see cref="P:WatchStore.Maui.ViewModels.WatchManagementViewModel.LoadWatchesAdminCommand"/>.</summary>
+        </member>
+        <member name="P:WatchStore.Maui.ViewModels.WatchManagementViewModel.LoadWatchesAdminCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:WatchStore.Maui.ViewModels.WatchManagementViewModel.LoadWatchesAdminAsync"/>.</summary>
+        </member>
+        <member name="M:WatchStore.Maui.TelerikThemeResources.PrefetchAsync(System.Action{System.Int32,System.Int32})">
+            <summary>
+            Synchronously load and parse all XAML files related to theming.
+            This may take a few seconds, but after it, runtime theme switch will be fast.
+            </summary>
+        </member>
+        <member name="T:WatchStore.Maui.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsLoading">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsLoading" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsLoading">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsLoading" generated properties.</summary>
+        </member>
+    </members>
+</doc>

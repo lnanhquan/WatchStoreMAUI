@@ -1,0 +1,21 @@
+Signature-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: CbV3oQvmNSMwDLD9Z57FEL7uMqQQ14WJOlep4bU3ga8=
+SHA-256-Digest-Manifest-Main-Attributes: m7DJayaOOjfnPjeD2aOw22Bl0fTpGI/
+ 7buK6mOCd50A=
+
+Name: classes.jar
+SHA-256-Digest: 2y8Q1Qli0kfOa64mpoqxSotqVzrrC0HbuDQfv4S3p8o=
+
+Name: res/values/values.xml
+SHA-256-Digest: KkSJHsZER02OenG3WLuMK+AwXn9e1MMS2rv48oOIvVM=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 2c/9gLVOmE7sa66XPyHEm0oZ1zbQJUpixheFVZSS6Kc=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: AoVAD6eppUW57iQjjPJaU5MKKo7pcObgxo+dfZQ/71k=
+
+Name: R.txt
+SHA-256-Digest: 6sIMAv4jnK+214Q5qTKdQluY2vRrLVjb0BoWFiO4iUY=
+
