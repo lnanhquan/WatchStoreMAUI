@@ -47,7 +47,7 @@ public class WatchesController : ControllerBase
     }
 
     [HttpGet("admin")]
-    //[Authorize(Roles = "Admin")]
+    [Authorize/*(Roles = "Admin")*/]
     public async Task<IActionResult> GetAllAdmin([FromQuery] bool? isDeleted)
     {
         var watches = await _service.GetAllAdminAsync(isDeleted);

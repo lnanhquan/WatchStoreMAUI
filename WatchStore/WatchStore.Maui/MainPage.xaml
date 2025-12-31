@@ -8,42 +8,51 @@
     <ScrollView>
         <Grid HorizontalOptions="Center">
             <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center">
-                <Image
-                Source="dotnet_bot.png"
-                HeightRequest="185"
-                Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+                
+                <Image Source="dotnet_bot.png"
+                       HeightRequest="185"
+                       Aspect="AspectFit"
+                       SemanticProperties.Description="dot net bot in a hovercraft number nine" />
 
-                <Label
-                Text="Hello, World!"
-                Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                <Label Text="Hello, World!"
+                       Style="{StaticResource Headline}"
+                       SemanticProperties.HeadingLevel="Level1" />
 
-                <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
-                Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App UI" />
+                <Label Text="Welcome to &#10;.NET Multi-platform App UI"
+                       Style="{StaticResource SubHeadline}"
+                       SemanticProperties.HeadingLevel="Level2"
+                       SemanticProperties.Description="Welcome to dot net Multi platform App UI" />
 
-                <telerik:RadButton x:Name="ButtonWatchList"
-                               Text="Watch List"
-                               FontSize ="20"
-                               WidthRequest="250"
-                               HeightRequest="60"
-                               CornerRadius="10"
-                               BackgroundColor="#2563EB"
-                               TextColor="White"
-                               Clicked="OnWatchListClicked"/>
+                <telerik:RadButton x:Name="buttonWatchList"
+                                   Text="Watch List"
+                                   FontSize ="20"
+                                   WidthRequest="250"
+                                   HeightRequest="60"
+                                   CornerRadius="10"
+                                   BackgroundColor="#2563EB"
+                                   TextColor="White"
+                                   Clicked="OnWatchListClicked"/>
 
-                <telerik:RadButton x:Name="ButtonWatchManagement"
-                               Text="Watch Management"
-                               FontSize ="20"
-                               WidthRequest="250"
-                               HeightRequest="60"
-                               CornerRadius="10"
-                               BackgroundColor="#0F766E"
-                               TextColor="White"
-                               Clicked="OnWatchManagementClicked"/>
+                <telerik:RadButton x:Name="buttonWatchManagement"
+                                   Text="Watch Management"
+                                   FontSize ="20"
+                                   WidthRequest="250"
+                                   HeightRequest="60"
+                                   CornerRadius="10"
+                                   BackgroundColor="#0F766E"
+                                   TextColor="White"
+                                   Clicked="OnWatchManagementClicked"/>
+                
+                <telerik:RadButton x:Name="buttonLogout"
+                                   Text="Logout"
+                                   Command="{Binding LogoutCommand}"
+                                   FontSize ="20"
+                                   WidthRequest="250"
+                                   HeightRequest="60"
+                                   CornerRadius="10"
+                                   BackgroundColor="DarkRed"
+                                   TextColor="White"/>
+                
             </VerticalStackLayout>
         </Grid>
     </ScrollView>

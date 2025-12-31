@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Azure.Core;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WatchStore.Api.DTOs.Auth;
@@ -30,32 +29,66 @@ public class AuthService : IAuthService
         _logger = logger;
     }
 
-    public async Task<IdentityResult> RegisterAsync(RegisterDTO model)
-    {
+    public async Task<IdentityResult> RegisterAsync(RegisterDTO dto)
+    {   
+        var existingEmail = await _userManager.FindByEmailAsync(dto.Email);
+        if (existingEmail != null)
+        {
+            return IdentityResult.Failed(new IdentityError
+            {
+                Description = "Email is already taken."
+            });
+        }
+
+        var existingUserName = await _userManager.FindByNameAsync(dto.UserName);
+        if (existingUserName != null)
+        {
+            return IdentityResult.Failed(new IdentityError
+            {
+                Description = "UserName is already taken."
+            });
+        }
         var user = new User
         {
-            UserName = model.UserName,
-            Email = model.Email,
+            UserName = dto.UserName,
+            Email = dto.Email,
             EmailConfirmed = true
         };
 
-        var result = await _userManager.CreateAsync(user, model.Password);
+        var result = await _userManager.CreateAsync(user, dto.Password);
 
-        if (result.Succeeded)
+        if (!result.Succeeded)
         {
-            await _userManager.AddToRoleAsync(user, "User");
+            _logger.LogWarning(
+                "Registration failed for {Email}: {Errors}",
+                dto.Email,
+                string.Join(", ", result.Errors.Select(e => e.Description))
+            );
+            return result;
         }
+
+        await _userManager.AddToRoleAsync(user, "User");
+
+        _logger.LogInformation("User {UserName} registered successfully with email {Email}", user.UserName, user.Email);
 
         return result;
     }
 
-    public async Task<LoginResponseDTO?> LoginAsync(LoginRequestDTO model)
+    public async Task<LoginResponseDTO?> LoginAsync(LoginRequestDTO dto)
     {
-        var user = await _userManager.FindByEmailAsync(model.Email);
-        if (user == null) return null;
+        var user = await _userManager.FindByEmailAsync(dto.Email);
+        if (user == null)
+        {
+            _logger.LogWarning("Login failed: Email {Email} not found", dto.Email);
+            return null;
+        }
 
-        var valid = await _signInManager.CheckPasswordSignInAsync(user, model.Password, false);
-        if (!valid.Succeeded) return null;
+        var valid = await _signInManager.CheckPasswordSignInAsync(user, dto.Password, false);
+        if (!valid.Succeeded)
+        {
+            _logger.LogWarning("Login failed for {Email}: Invalid password", dto.Email);
+            return null;
+        }
 
         var roles = await _userManager.GetRolesAsync(user);
 
@@ -73,6 +106,8 @@ public class AuthService : IAuthService
         response.RefreshToken = refreshToken;
         response.AccessTokenExpiration = expires;
 
+        _logger.LogInformation("User {UserName} logged in", user.UserName);
+
         return response;
     }
 
@@ -82,8 +117,17 @@ public class AuthService : IAuthService
 
         var user = await _userManager.Users.FirstOrDefaultAsync(u => u.RefreshToken == hash);
 
-        if (user == null || user.RefreshTokenExpiryTime < DateTime.UtcNow)
+        if (user == null)
+        {
+            _logger.LogWarning("Refresh token invalid: No matching user found");
             return null;
+        }
+
+        if (user.RefreshTokenExpiryTime < DateTime.UtcNow)
+        {
+            _logger.LogWarning("Refresh token expired for user {UserId}", user.Id);
+            return null;
+        }
 
         var roles = await _userManager.GetRolesAsync(user);
 
@@ -101,18 +145,27 @@ public class AuthService : IAuthService
         response.RefreshToken = newRefresh;
         response.AccessTokenExpiration = expires;
 
+        _logger.LogInformation("Refresh token successfully issued for user {UserName}", user.UserName);
+
         return response;
     }
 
     public async Task<bool> LogoutAsync(string userId)
     {
         var user = await _userManager.FindByIdAsync(userId);
-        if (user == null) return false;
+        if (user == null)
+        {
+            _logger.LogWarning("Logout failed: User {UserId} not found", userId);
+            return false;
+        }
 
         user.RefreshToken = null;
         user.RefreshTokenExpiryTime = null;
 
         await _userManager.UpdateAsync(user);
+
+        _logger.LogInformation("User {UserId} logged out successfully", userId);
+
         return true;
     }
 }

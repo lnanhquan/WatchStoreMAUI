@@ -17,596 +17,608 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WatchStore.Maui
-build_property.ProjectDir = C:\WatchStore\WatchStore.Maui\
+build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/WatchStore/WatchStore.Maui/App.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/WatchStore/WatchStore.Maui/AppShell.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/WatchStore/WatchStore.Maui/MainPage.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/WatchStore/WatchStore.Maui/Resources/Styles/Colors.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/WatchStore/WatchStore.Maui/Resources/Styles/Styles.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Swatches/Dark.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Views/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Swatches.Dark.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Swatches\Dark.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Swatches\Dark.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
 
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Swatches/Light.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Views/RegisterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Swatches.Light.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Swatches\Light.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Swatches\Light.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage.xaml
 
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Variables.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Variables.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Variables.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Variables.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Main.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Main.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Main.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Main.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/MainDark.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.MainDark.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\MainDark.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\MainDark.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/OceanBlue.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.OceanBlue.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\OceanBlue.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\OceanBlue.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/OceanBlueDark.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.OceanBlueDark.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\OceanBlueDark.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\OceanBlueDark.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Purple.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Purple.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Purple.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Purple.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/PurpleDark.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.PurpleDark.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\PurpleDark.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\PurpleDark.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Turquoise.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Turquoise.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Turquoise.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Turquoise.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/TurquoiseDark.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.TurquoiseDark.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\TurquoiseDark.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\TurquoiseDark.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Variables.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Variables.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Variables.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Variables.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Accordion.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Accordion.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Accordion.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Accordion.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/AIPrompt.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.AIPrompt.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\AIPrompt.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\AIPrompt.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/AutoComplete.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.AutoComplete.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\AutoComplete.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\AutoComplete.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BadgeView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BadgeView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BadgeView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BadgeView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BottomSheet.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BottomSheet.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BottomSheet.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BottomSheet.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BusyIndicator.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BusyIndicator.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BusyIndicator.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BusyIndicator.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Buttons.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Buttons.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Buttons.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Buttons.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Calendar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Calendar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Calendar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Calendar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Chat.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Chat.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Chat.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Chat.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/CheckBox.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.CheckBox.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\CheckBox.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\CheckBox.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/CollectionView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.CollectionView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\CollectionView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\CollectionView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/ComboBox.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.ComboBox.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\ComboBox.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\ComboBox.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataForm.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataForm.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataForm.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataForm.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataGrid.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataGrid.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataGrid.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataGrid.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataPager.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataPager.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataPager.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataPager.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Entry.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Entry.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Entry.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Entry.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Expander.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Expander.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Expander.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Expander.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/GridSplitter.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.GridSplitter.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\GridSplitter.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\GridSplitter.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/ImageEditor.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.ImageEditor.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\ImageEditor.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\ImageEditor.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/LinearProgressBar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.LinearProgressBar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\LinearProgressBar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\LinearProgressBar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/MaskedEntry.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.MaskedEntry.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\MaskedEntry.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\MaskedEntry.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/NavigationView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.NavigationView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\NavigationView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\NavigationView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/NumericInput.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.NumericInput.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\NumericInput.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\NumericInput.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/PdfViewer.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.PdfViewer.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\PdfViewer.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\PdfViewer.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Pickers.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Pickers.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Pickers.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Pickers.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/PromptInput.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.PromptInput.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\PromptInput.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\PromptInput.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Rating.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Rating.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Rating.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Rating.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/RichTextEditor.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.RichTextEditor.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\RichTextEditor.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\RichTextEditor.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Scheduler.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Scheduler.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Scheduler.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Scheduler.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SegmentedControl.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SegmentedControl.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SegmentedControl.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SegmentedControl.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SignaturePad.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SignaturePad.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SignaturePad.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SignaturePad.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Skeleton.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Skeleton.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Skeleton.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Skeleton.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Sliders.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Sliders.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Sliders.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Sliders.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SlideView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SlideView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SlideView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SlideView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SpeechToTextButton.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SpeechToTextButton.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SpeechToTextButton.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SpeechToTextButton.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TabView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TabView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TabView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TabView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Toolbar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Toolbar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Toolbar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Toolbar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TreeDataGrid.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TreeDataGrid.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TreeDataGrid.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TreeDataGrid.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TreeView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TreeView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TreeView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TreeView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Accordion.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Accordion.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Accordion.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Accordion.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/AIPrompt.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.AIPrompt.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\AIPrompt.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\AIPrompt.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/AutoComplete.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.AutoComplete.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\AutoComplete.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\AutoComplete.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BadgeView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BadgeView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BadgeView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BadgeView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BottomSheet.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BottomSheet.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BottomSheet.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BottomSheet.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BusyIndicator.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BusyIndicator.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BusyIndicator.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BusyIndicator.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Buttons.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Buttons.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Buttons.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Buttons.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Calendar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Calendar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Calendar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Calendar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Chart.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Chart.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Chart.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Chart.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Chat.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Chat.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Chat.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Chat.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/CheckBox.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.CheckBox.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\CheckBox.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\CheckBox.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/CollectionView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.CollectionView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\CollectionView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\CollectionView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/ComboBox.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.ComboBox.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\ComboBox.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\ComboBox.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataForm.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataForm.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataForm.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataForm.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataGrid.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataGrid.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataGrid.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataGrid.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataPager.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataPager.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataPager.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataPager.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Entry.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Entry.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Entry.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Entry.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Expander.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Expander.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Expander.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Expander.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/GridSplitter.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.GridSplitter.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\GridSplitter.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\GridSplitter.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/ImageEditor.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.ImageEditor.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\ImageEditor.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\ImageEditor.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/LinearProgressBar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.LinearProgressBar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\LinearProgressBar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\LinearProgressBar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/NavigationView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.NavigationView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\NavigationView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\NavigationView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/NumericInput.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.NumericInput.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\NumericInput.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\NumericInput.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/PdfViewer.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.PdfViewer.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\PdfViewer.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\PdfViewer.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Pickers.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Pickers.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Pickers.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Pickers.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/PromptInput.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.PromptInput.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\PromptInput.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\PromptInput.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Rating.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Rating.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Rating.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Rating.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/RichTextEditor.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.RichTextEditor.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\RichTextEditor.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\RichTextEditor.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Scheduler.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Scheduler.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Scheduler.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Scheduler.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SegmentedControl.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SegmentedControl.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SegmentedControl.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SegmentedControl.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SignaturePad.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SignaturePad.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SignaturePad.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SignaturePad.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Skeleton.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Skeleton.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Skeleton.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Skeleton.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Sliders.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Sliders.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Sliders.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Sliders.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SlideView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SlideView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SlideView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SlideView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SpeechToTextButton.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SpeechToTextButton.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SpeechToTextButton.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SpeechToTextButton.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TabView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TabView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TabView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TabView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Toolbar.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Toolbar.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Toolbar.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Toolbar.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TreeDataGrid.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TreeDataGrid.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TreeDataGrid.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TreeDataGrid.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TreeView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TreeView.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TreeView.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TreeView.xaml
-
-[C:/WatchStore/WatchStore.Maui/TelerikTheming/TelerikThemeResources.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.TelerikThemeResources.xaml
-build_metadata.AdditionalFiles.TargetPath = TelerikTheming\TelerikThemeResources.xaml
-build_metadata.AdditionalFiles.RelativePath = TelerikTheming\TelerikThemeResources.xaml
-
-[C:/WatchStore/WatchStore.Maui/Views/WatchListPage.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Views/WatchListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Views.WatchListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\WatchListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\WatchListPage.xaml
 
-[C:/WatchStore/WatchStore.Maui/Views/WatchManagementPage.xaml]
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/Views/WatchManagementPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.Views.WatchManagementPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\WatchManagementPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\WatchManagementPage.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/AIPrompt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.AIPrompt.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\AIPrompt.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\AIPrompt.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Accordion.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Accordion.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Accordion.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Accordion.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/AutoComplete.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.AutoComplete.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\AutoComplete.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\AutoComplete.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BadgeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BadgeView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BadgeView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BadgeView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BottomSheet.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BottomSheet.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BottomSheet.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BottomSheet.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/BusyIndicator.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.BusyIndicator.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\BusyIndicator.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\BusyIndicator.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Buttons.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Buttons.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Buttons.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Buttons.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Calendar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Calendar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Calendar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Calendar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Chat.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Chat.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Chat.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Chat.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/CheckBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.CheckBox.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\CheckBox.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\CheckBox.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/CollectionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.CollectionView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\CollectionView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\CollectionView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/ComboBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.ComboBox.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\ComboBox.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\ComboBox.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataGrid.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataGrid.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataGrid.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataGrid.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataForm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataForm.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataForm.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataForm.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/DataPager.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.DataPager.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\DataPager.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\DataPager.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Entry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Entry.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Entry.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Entry.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Expander.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Expander.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Expander.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Expander.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/GridSplitter.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.GridSplitter.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\GridSplitter.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\GridSplitter.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/ImageEditor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.ImageEditor.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\ImageEditor.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\ImageEditor.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/LinearProgressBar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.LinearProgressBar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\LinearProgressBar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\LinearProgressBar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/MaskedEntry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.MaskedEntry.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\MaskedEntry.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\MaskedEntry.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/NavigationView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.NavigationView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\NavigationView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\NavigationView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/NumericInput.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.NumericInput.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\NumericInput.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\NumericInput.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/PdfViewer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.PdfViewer.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\PdfViewer.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\PdfViewer.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Pickers.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Pickers.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Pickers.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Pickers.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/PromptInput.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.PromptInput.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\PromptInput.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\PromptInput.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Rating.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Rating.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Rating.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Rating.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/RichTextEditor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.RichTextEditor.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\RichTextEditor.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\RichTextEditor.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Scheduler.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Scheduler.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Scheduler.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Scheduler.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SegmentedControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SegmentedControl.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SegmentedControl.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SegmentedControl.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SignaturePad.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SignaturePad.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SignaturePad.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SignaturePad.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Skeleton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Skeleton.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Skeleton.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Skeleton.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Sliders.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Sliders.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Sliders.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Sliders.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SlideView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SlideView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SlideView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SlideView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/SpeechToTextButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.SpeechToTextButton.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\SpeechToTextButton.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\SpeechToTextButton.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TabView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TabView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TabView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TabView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/Toolbar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.Toolbar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\Toolbar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\Toolbar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TreeDataGrid.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TreeDataGrid.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TreeDataGrid.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TreeDataGrid.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Platform/TreeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Platform.TreeView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Platform\TreeView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Platform\TreeView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Variables.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Variables.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Variables.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Variables.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Swatches/Light.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Swatches.Light.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Swatches\Light.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Swatches\Light.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Platform/Swatches/Dark.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Platform.Swatches.Dark.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Platform\Swatches\Dark.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Platform\Swatches\Dark.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/AIPrompt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.AIPrompt.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\AIPrompt.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\AIPrompt.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Accordion.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Accordion.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Accordion.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Accordion.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/AutoComplete.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.AutoComplete.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\AutoComplete.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\AutoComplete.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BadgeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BadgeView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BadgeView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BadgeView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BottomSheet.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BottomSheet.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BottomSheet.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BottomSheet.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/BusyIndicator.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.BusyIndicator.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\BusyIndicator.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\BusyIndicator.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Buttons.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Buttons.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Buttons.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Buttons.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Calendar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Calendar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Calendar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Calendar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Chat.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Chat.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Chat.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Chat.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Chart.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Chart.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Chart.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Chart.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/CheckBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.CheckBox.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\CheckBox.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\CheckBox.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/CollectionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.CollectionView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\CollectionView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\CollectionView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/ComboBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.ComboBox.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\ComboBox.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\ComboBox.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataGrid.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataGrid.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataGrid.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataGrid.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataForm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataForm.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataForm.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataForm.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/DataPager.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.DataPager.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\DataPager.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\DataPager.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Entry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Entry.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Entry.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Entry.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Expander.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Expander.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Expander.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Expander.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/GridSplitter.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.GridSplitter.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\GridSplitter.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\GridSplitter.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/ImageEditor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.ImageEditor.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\ImageEditor.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\ImageEditor.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/LinearProgressBar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.LinearProgressBar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\LinearProgressBar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\LinearProgressBar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/NavigationView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.NavigationView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\NavigationView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\NavigationView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/NumericInput.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.NumericInput.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\NumericInput.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\NumericInput.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/PdfViewer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.PdfViewer.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\PdfViewer.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\PdfViewer.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Pickers.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Pickers.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Pickers.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Pickers.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/PromptInput.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.PromptInput.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\PromptInput.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\PromptInput.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Rating.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Rating.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Rating.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Rating.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/RichTextEditor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.RichTextEditor.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\RichTextEditor.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\RichTextEditor.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Scheduler.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Scheduler.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Scheduler.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Scheduler.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SegmentedControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SegmentedControl.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SegmentedControl.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SegmentedControl.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SignaturePad.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SignaturePad.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SignaturePad.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SignaturePad.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Skeleton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Skeleton.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Skeleton.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Skeleton.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Sliders.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Sliders.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Sliders.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Sliders.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SlideView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SlideView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SlideView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SlideView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/SpeechToTextButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.SpeechToTextButton.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\SpeechToTextButton.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\SpeechToTextButton.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TabView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TabView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TabView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TabView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/Toolbar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.Toolbar.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\Toolbar.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\Toolbar.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TreeDataGrid.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TreeDataGrid.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TreeDataGrid.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TreeDataGrid.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Styles/Telerik/TreeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Styles.Telerik.TreeView.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Styles\Telerik\TreeView.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Styles\Telerik\TreeView.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Variables.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Variables.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Variables.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Variables.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Main.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Main.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Main.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Main.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/MainDark.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.MainDark.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\MainDark.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\MainDark.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/OceanBlue.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.OceanBlue.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\OceanBlue.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\OceanBlue.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/OceanBlueDark.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.OceanBlueDark.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\OceanBlueDark.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\OceanBlueDark.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Purple.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Purple.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Purple.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Purple.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/PurpleDark.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.PurpleDark.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\PurpleDark.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\PurpleDark.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/Turquoise.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.Turquoise.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\Turquoise.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\Turquoise.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/Colors/Telerik/Swatches/TurquoiseDark.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.Colors.Telerik.Swatches.TurquoiseDark.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\Colors\Telerik\Swatches\TurquoiseDark.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\Colors\Telerik\Swatches\TurquoiseDark.xaml
+
+[C:/Users/Admin/Documents/GitHub/WatchStoreMAUI/WatchStore/WatchStore.Maui/TelerikTheming/TelerikThemeResources.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchStore.Maui.TelerikTheming.TelerikThemeResources.xaml
+build_metadata.AdditionalFiles.TargetPath = TelerikTheming\TelerikThemeResources.xaml
+build_metadata.AdditionalFiles.RelativePath = TelerikTheming\TelerikThemeResources.xaml

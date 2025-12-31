@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Serilog;
+using Serilog.Events;
 using System.Text;
 using WatchStore.Api.Data;
 using WatchStore.Api.Models.Entities;
@@ -103,15 +105,15 @@ public static class ServiceExtensions
         });
     }
 
-    //public static void ConfigureSerilog(this IServiceCollection services, IHostBuilder host)
-    //{
-    //    Log.Logger = new LoggerConfiguration()
-    //        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
-    //        .MinimumLevel.Override("System", LogEventLevel.Warning)
-    //        .WriteTo.Console()
-    //        .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day, restrictedToMinimumLevel: LogEventLevel.Debug)
-    //        .CreateLogger();
+    public static void ConfigureSerilog(this IServiceCollection services, IHostBuilder host)
+    {
+        Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+            .MinimumLevel.Override("System", LogEventLevel.Warning)
+            .WriteTo.Console()
+            .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day, restrictedToMinimumLevel: LogEventLevel.Debug)
+            .CreateLogger();
 
-    //    host.UseSerilog();
-    //}
+        host.UseSerilog();
+    }
 }

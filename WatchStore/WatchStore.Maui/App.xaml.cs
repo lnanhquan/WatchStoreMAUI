@@ -1,20 +1,18 @@
-﻿namespace WatchStore.Maui;
+﻿using WatchStore.Maui.Views;
+
+namespace WatchStore.Maui;
 
 public partial class App : Application
 {
-    private readonly IServiceProvider _serviceProvider;
-
-    public App(IServiceProvider serviceProvider)
+    public App()
     {
         InitializeComponent();
         Application.Current.UserAppTheme = AppTheme.Light;
         //TelerikThemeResources.AppTheme = TelerikTheme.PlatformDark;
-        _serviceProvider = serviceProvider;
     }
 
     protected override Window CreateWindow(IActivationState? activationState)
     {
-        var mainPage = _serviceProvider.GetRequiredService<MainPage>();
-        return new Window(new NavigationPage(mainPage));
+        return new Window(new AppShell());
     }
 }

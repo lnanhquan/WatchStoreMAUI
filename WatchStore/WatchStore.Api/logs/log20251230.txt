@@ -1,0 +1,65 @@
+2025-12-30 11:28:02.143 +07:00 [INF] Admin requested all watches
+2025-12-30 11:28:02.236 +07:00 [INF] Returned 21 watches for admin
+2025-12-30 11:28:58.589 +07:00 [INF] User requested all watches
+2025-12-30 11:28:58.605 +07:00 [INF] Returned 19 watches
+2025-12-30 11:28:58.606 +07:00 [INF] User requested all watches
+2025-12-30 11:28:58.609 +07:00 [INF] Returned 19 watches
+2025-12-30 11:32:28.017 +07:00 [INF] Admin requested all watches
+2025-12-30 11:32:28.090 +07:00 [INF] Returned 21 watches for admin
+2025-12-30 11:50:04.451 +07:00 [INF] User user logged in
+2025-12-30 11:57:18.065 +07:00 [INF] User user logged in
+2025-12-30 12:00:18.603 +07:00 [INF] User user logged in
+2025-12-30 13:19:47.160 +07:00 [WRN] Login failed: Email test@gmail.com not found
+2025-12-30 13:20:06.466 +07:00 [INF] User user logged in
+2025-12-30 13:20:21.632 +07:00 [INF] User requested all watches
+2025-12-30 13:20:21.639 +07:00 [INF] User requested all watches
+2025-12-30 13:20:21.725 +07:00 [INF] Returned 19 watches
+2025-12-30 13:20:21.725 +07:00 [INF] Returned 19 watches
+2025-12-30 13:20:31.074 +07:00 [INF] Admin requested all watches
+2025-12-30 13:20:31.085 +07:00 [INF] Returned 21 watches for admin
+2025-12-30 13:30:32.934 +07:00 [INF] User test registered successfully with email test@gmail.com
+2025-12-30 13:30:49.953 +07:00 [INF] User test logged in
+2025-12-30 14:13:59.927 +07:00 [INF] User user logged in
+2025-12-30 14:15:05.672 +07:00 [INF] User requested all watches
+2025-12-30 14:15:05.672 +07:00 [INF] User requested all watches
+2025-12-30 14:15:05.740 +07:00 [INF] Returned 19 watches
+2025-12-30 14:15:05.740 +07:00 [INF] Returned 19 watches
+2025-12-30 14:15:20.646 +07:00 [INF] Admin requested all watches
+2025-12-30 14:15:20.654 +07:00 [INF] Returned 21 watches for admin
+2025-12-30 14:17:25.723 +07:00 [INF] User user logged in
+2025-12-30 14:17:28.279 +07:00 [INF] User 0e3a0d01-09cc-4d4c-9cf9-5adc33f4e3de logged out successfully
+2025-12-30 14:18:23.365 +07:00 [INF] User user logged in
+2025-12-30 14:19:02.422 +07:00 [INF] User user logged in
+2025-12-30 14:19:05.013 +07:00 [INF] User 0e3a0d01-09cc-4d4c-9cf9-5adc33f4e3de logged out successfully
+2025-12-30 15:01:58.680 +07:00 [INF] User admin logged in
+2025-12-30 15:02:03.759 +07:00 [INF] Admin requested all watches
+2025-12-30 15:02:03.798 +07:00 [INF] Returned 21 watches for admin
+2025-12-30 15:02:08.919 +07:00 [INF] User requested all watches
+2025-12-30 15:02:08.928 +07:00 [INF] User requested all watches
+2025-12-30 15:02:08.935 +07:00 [INF] Returned 19 watches
+2025-12-30 15:02:08.953 +07:00 [INF] Returned 19 watches
+2025-12-30 15:02:16.863 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2025-12-30 15:43:06.019 +07:00 [INF] User user logged in
+2025-12-30 15:43:08.855 +07:00 [INF] User requested all watches
+2025-12-30 15:43:08.855 +07:00 [INF] User requested all watches
+2025-12-30 15:43:08.910 +07:00 [INF] Returned 19 watches
+2025-12-30 15:43:08.910 +07:00 [INF] Returned 19 watches
+2025-12-30 15:43:14.927 +07:00 [INF] User requested all watches
+2025-12-30 15:43:14.930 +07:00 [INF] Returned 19 watches
+2025-12-30 15:43:23.208 +07:00 [INF] User 0e3a0d01-09cc-4d4c-9cf9-5adc33f4e3de logged out successfully
+2025-12-30 16:24:03.890 +07:00 [INF] User test registered successfully with email test@gmail.com
+2025-12-30 16:24:22.119 +07:00 [INF] User test logged in
+2025-12-30 17:11:32.771 +07:00 [INF] User test logged in
+2025-12-30 17:11:35.466 +07:00 [INF] User requested all watches
+2025-12-30 17:11:35.466 +07:00 [INF] User requested all watches
+2025-12-30 17:11:35.548 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:35.548 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:41.272 +07:00 [INF] User requested all watches
+2025-12-30 17:11:41.274 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:48.453 +07:00 [INF] User requested all watches
+2025-12-30 17:11:48.456 +07:00 [INF] User requested all watches
+2025-12-30 17:11:48.457 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:48.457 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:54.149 +07:00 [INF] User requested all watches
+2025-12-30 17:11:54.151 +07:00 [INF] Returned 19 watches
+2025-12-30 17:11:57.950 +07:00 [INF] User ea72080d-7fa7-4ef5-9b31-fa86ab8b58a8 logged out successfully

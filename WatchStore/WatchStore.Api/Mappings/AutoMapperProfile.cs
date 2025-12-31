@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using WatchStore.Api.DTOs;
 using WatchStore.Api.DTOs.Auth;
 using WatchStore.Api.DTOs.Watch;
 using WatchStore.Api.Models.Entities;

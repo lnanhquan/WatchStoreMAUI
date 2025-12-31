@@ -18,6 +18,7 @@ public class RegisterDTO
     [RegularExpression(AuthConstants.PasswordRegex)]
     public string Password { get; set; }
 
+    [Required]
     [Compare("Password")]
     public string ConfirmPassword { get; set; }
 }

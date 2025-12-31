@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Logging;
-
 using Telerik.Maui.Controls.Compatibility;
 using WatchStore.Maui.Services;
 using WatchStore.Maui.ViewModels;
@@ -21,17 +20,36 @@ public static class MauiProgram
             });
         builder.Services.AddSingleton<App>();
 
-        // Pages
-        builder.Services.AddTransient<MainPage>();
-        builder.Services.AddTransient<WatchListPage>();
-        builder.Services.AddTransient<WatchManagementPage>();
+        // Token
+        builder.Services.AddHttpClient("TokenClient", client =>
+        {
+            client.BaseAddress = new Uri("https://localhost:7123/");
+        });
+        builder.Services.AddTransient<TokenApiService>();
+
+        // Client
+        builder.Services.AddTransient<AuthTokenHandler>();
+        builder.Services.AddHttpClient("ApiClient", client =>
+        { 
+            client.BaseAddress = new Uri("https://localhost:7123/"); 
+        }) 
+        .AddHttpMessageHandler<AuthTokenHandler>(); 
+        
+        // Services
+        builder.Services.AddSingleton<WatchApiService>(); 
+        builder.Services.AddSingleton<AuthApiService>();
 
         // ViewModels
         builder.Services.AddTransient<WatchListViewModel>();
         builder.Services.AddTransient<WatchManagementViewModel>();
+        builder.Services.AddTransient<AuthViewModel>();
 
-        // Services
-        builder.Services.AddSingleton<WatchApiService>();
+        // Pages
+        builder.Services.AddTransient<MainPage>();
+        builder.Services.AddTransient<WatchListPage>();
+        builder.Services.AddTransient<WatchManagementPage>();
+        builder.Services.AddTransient<RegisterPage>();
+        builder.Services.AddTransient<LoginPage>();
 
 #if DEBUG
         builder.Logging.AddDebug();

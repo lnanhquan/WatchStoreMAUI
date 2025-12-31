@@ -5,6 +5,7 @@ using WatchStore.Maui.Models.Watch;
 using WatchStore.Maui.Services;
 
 namespace WatchStore.Maui.ViewModels;
+
 public partial class WatchManagementViewModel : ObservableObject
 {
     private readonly WatchApiService _apiService;

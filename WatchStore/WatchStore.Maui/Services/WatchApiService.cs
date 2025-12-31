@@ -7,12 +7,9 @@ public class WatchApiService
 {
     private readonly HttpClient _httpClient;
 
-    public WatchApiService()
+    public WatchApiService(IHttpClientFactory factory)
     {
-        _httpClient = new HttpClient
-        {
-            BaseAddress = new Uri("https://localhost:7123/")
-        };
+        _httpClient = factory.CreateClient("ApiClient");
     }
 
     public async Task<List<WatchUserDTO>> GetWatchesAsync()
@@ -24,6 +21,6 @@ public class WatchApiService
     public async Task<List<WatchAdminDTO>> GetWatchesAdminAsync()
     {
         return await _httpClient
-            .GetFromJsonAsync<List<WatchAdminDTO>>("api/watches/admin") ?? new List<WatchAdminDTO>();
+            .GetFromJsonAsync<List<WatchAdminDTO>>("api/watches") ?? new List<WatchAdminDTO>();
     }
 }

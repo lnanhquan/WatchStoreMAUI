@@ -1,26 +1,24 @@
-﻿using WatchStore.Maui.Views;
+﻿using WatchStore.Maui.ViewModels;
+using WatchStore.Maui.Views;
 
 namespace WatchStore.Maui;
 
 public partial class MainPage : ContentPage
 {
-    private readonly IServiceProvider _serviceProvider;
 
-    public MainPage(IServiceProvider serviceProvider)
+    public MainPage(AuthViewModel authViewModel)
     {
         InitializeComponent();
-        _serviceProvider = serviceProvider;
+        BindingContext = authViewModel;
     }
 
     private async void OnWatchListClicked(object sender, EventArgs e)
     {
-        var page = _serviceProvider.GetRequiredService<WatchListPage>();
-        await Navigation.PushAsync(page);
+        await Shell.Current.GoToAsync(nameof(WatchListPage));
     }
 
     private async void OnWatchManagementClicked(object sender, EventArgs e)
     {
-        var page = _serviceProvider.GetRequiredService<WatchManagementPage>();
-        await Navigation.PushAsync(page);
+        await Shell.Current.GoToAsync(nameof(WatchManagementPage));
     }
 }
