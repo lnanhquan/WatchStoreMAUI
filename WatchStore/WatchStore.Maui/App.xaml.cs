@@ -1,18 +1,38 @@
-﻿using WatchStore.Maui.Views;
-
-namespace WatchStore.Maui;
+﻿namespace WatchStore.Maui;
 
 public partial class App : Application
 {
-    public App()
+    private readonly AppShell _shell;
+
+    public App(AppShell shell)
     {
         InitializeComponent();
-        Application.Current.UserAppTheme = AppTheme.Light;
-        //TelerikThemeResources.AppTheme = TelerikTheme.PlatformDark;
+        string savedTheme = Preferences.Default.Get("app_theme", "Light");
+        if (Enum.TryParse(savedTheme, out AppTheme theme))
+        {
+            this.UserAppTheme = theme;
+        }
+        else
+        {
+            this.UserAppTheme = AppTheme.Light;
+        }    
+        this.RequestedThemeChanged += (s, e) => ApplyTelerikTheme();
+        this.ApplyTelerikTheme();
+        _shell = shell;
     }
 
     protected override Window CreateWindow(IActivationState? activationState)
     {
-        return new Window(new AppShell());
+        return new Window(_shell);
+    }
+
+    private void ApplyTelerikTheme()
+    {
+
+        if (this.RequestedTheme == AppTheme.Dark)
+        {
+            TelerikThemeResources.AppTheme = TelerikTheme.PlatformDark;
+        }
+        else TelerikThemeResources.AppTheme = TelerikTheme.PlatformLight;
     }
 }

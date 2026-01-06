@@ -3,11 +3,74 @@
     x:Class="WatchStore.Maui.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
     xmlns:local="clr-namespace:WatchStore.Maui"
     xmlns:views="clr-namespace:WatchStore.Maui.Views"
+    NavBarIsVisible="True"
     Title="WatchStore.Maui">
 
+    <Shell.Resources>
+        <ResourceDictionary>
+            <toolkit:AppThemeObject Light="back_light.png" Dark="back_dark.png" x:Key="BackIcon"/>
+            <toolkit:AppThemeObject Light="logout_light.png" Dark="logout_dark.png" x:Key="LogoutIcon"/>
+            <toolkit:AppThemeObject Light="theme_light.png" Dark="theme_dark.png" x:Key="ThemeIcon"/>
+        </ResourceDictionary>
+    </Shell.Resources>
+    
     <Shell.FlyoutBehavior>Disabled</Shell.FlyoutBehavior>
+  
+    <Shell.TitleView>
+        <Grid ColumnDefinitions="100,*,100"
+              VerticalOptions="Center" >
+
+            <ImageButton x:Name="BackButton"
+                         Grid.Column="0"
+                         Source="{toolkit:AppThemeResource BackIcon}"
+                         HorizontalOptions="Start"
+                         VerticalOptions="Center"
+                         BackgroundColor="Transparent"
+                         HeightRequest="10"
+                         WidthRequest="10"
+                         IsVisible="{Binding CanGoBack}"
+                         IsEnabled="{Binding CanGoBack}"
+                         Padding="10"
+                         Command="{Binding GoBackCommand}">
+            </ImageButton>
+            
+            <Label x:Name="PageTitle"
+                   Text="{Binding PageTitle}"
+                   Grid.Column="1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontSize="35"
+                   FontAttributes="Bold" />
+
+            <HorizontalStackLayout Grid.Column="2"
+                                   HorizontalOptions="End"
+                                   VerticalOptions="Center">
+
+                <ImageButton x:Name="ThemeButton"
+                             Source="{toolkit:AppThemeResource ThemeIcon}"
+                             BackgroundColor="Transparent"
+                             HeightRequest="10"
+                             WidthRequest="10"
+                             Padding="7"
+                             Command="{Binding ChangeThemeCommand}" />
+
+                <ImageButton x:Name="LogoutButton"
+                             Source="{toolkit:AppThemeResource LogoutIcon}"
+                             BackgroundColor="Transparent"
+                             HeightRequest="10"
+                             WidthRequest="10"
+                             Padding="10"
+                             IsVisible="{Binding IsLoggedIn}"
+                             IsEnabled="{Binding IsLoggedIn}"
+                             Command="{Binding LogoutCommand}" />
+
+            </HorizontalStackLayout>
+            
+        </Grid>
+    </Shell.TitleView>
 
     <ShellContent
         Route="login"

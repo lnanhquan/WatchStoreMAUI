@@ -23,15 +23,15 @@ public final class R {
 		public static final int card_deck_translation = 0x7f060056;
 	}
 	public static final class drawable {
-		public static final int gingerbread_background = 0x7f070092;
-		public static final int ic_collapse = 0x7f0700a1;
-		public static final int ic_collapse_dark = 0x7f0700a2;
-		public static final int ic_expand = 0x7f0700a5;
-		public static final int pressable_item_background = 0x7f0700ff;
-		public static final int selectable_item_background = 0x7f070100;
-		public static final int shade_bottom = 0x7f070101;
-		public static final int shade_corner = 0x7f070102;
-		public static final int shade_right = 0x7f070103;
+		public static final int gingerbread_background = 0x7f070094;
+		public static final int ic_collapse = 0x7f0700a3;
+		public static final int ic_collapse_dark = 0x7f0700a4;
+		public static final int ic_expand = 0x7f0700a7;
+		public static final int pressable_item_background = 0x7f070103;
+		public static final int selectable_item_background = 0x7f070104;
+		public static final int shade_bottom = 0x7f070105;
+		public static final int shade_corner = 0x7f070106;
+		public static final int shade_right = 0x7f070107;
 	}
 	public static final class id {
 		public static final int groupHeaderCollapseImage = 0x7f080128;

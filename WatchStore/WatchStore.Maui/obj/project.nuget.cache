@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uzWh9lA1B9k=",
+  "dgSpecHash": "bS0sFYzjisU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\WatchStoreMAUI\\WatchStore\\WatchStore.Maui\\WatchStore.Maui.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.maui\\9.1.1\\communitytoolkit.maui.9.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.maui.core\\9.1.1\\communitytoolkit.maui.core.9.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.11\\microsoft.extensions.configuration.9.0.11.nupkg.sha512",
@@ -44,6 +46,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\skiasharp.views.maui.core\\3.119.1\\skiasharp.views.maui.core.3.119.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\skiasharp.views.winui\\3.119.1\\skiasharp.views.winui.3.119.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.9\\system.security.cryptography.pkcs.9.0.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\telerik.documents.core\\2025.4.1104\\telerik.documents.core.2025.4.1104.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\telerik.documents.fixed\\2025.4.1104\\telerik.documents.fixed.2025.4.1104.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\telerik.licensing\\1.6.35\\telerik.licensing.1.6.35.nupkg.sha512",

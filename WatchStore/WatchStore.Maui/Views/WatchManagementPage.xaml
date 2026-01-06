@@ -11,7 +11,7 @@
             <DataTemplate x:Key="TemplateForRowDetails">
                 <Border Stroke="#DDDDDD"
                         StrokeThickness="1"
-                        Background="#F7F7F7"
+                        Background="{AppThemeBinding Light=#F7F7F7, Dark=#2A2A2A}"
                         Padding="15"
                         Margin="10"
                         StrokeShape="RoundRectangle 12">
@@ -34,23 +34,23 @@
                         <VerticalStackLayout Grid.Column="1" Spacing="10">
 
                             <HorizontalStackLayout Spacing="5">
-                                <Label Text="Created By: " FontAttributes="Bold" TextColor="#333"/>
-                                <Label Text="{Binding CreatedBy}" TextColor="#555"/>
+                                <Label Text="Created By: " FontAttributes="Bold" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+                                <Label Text="{Binding CreatedBy}" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
                             </HorizontalStackLayout>
 
                             <HorizontalStackLayout Spacing="5">
-                                <Label Text="Updated By: " FontAttributes="Bold" TextColor="#333"/>
-                                <Label Text="{Binding UpdatedBy}" TextColor="#555"/>
+                                <Label Text="Updated By: " FontAttributes="Bold" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+                                <Label Text="{Binding UpdatedBy}" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
                             </HorizontalStackLayout>
 
                             <HorizontalStackLayout Spacing="5">
-                                <Label Text="Deleted By: " FontAttributes="Bold" TextColor="#333"/>
-                                <Label Text="{Binding DeletedBy}" TextColor="#555"/>
+                                <Label Text="Deleted By: " FontAttributes="Bold" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+                                <Label Text="{Binding DeletedBy}" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
                             </HorizontalStackLayout>
 
                             <HorizontalStackLayout Spacing="5">
-                                <Label Text="Deleted At: " FontAttributes="Bold" TextColor="#333"/>
-                                <Label Text="{Binding DeletedAt}" TextColor="#555"/>
+                                <Label Text="Deleted At: " FontAttributes="Bold" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+                                <Label Text="{Binding DeletedAt}" TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
                             </HorizontalStackLayout>
 
                         </VerticalStackLayout>

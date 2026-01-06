@@ -2,31 +2,38 @@
 using CommunityToolkit.Mvvm.Input;
 using WatchStore.Maui.Constants;
 using WatchStore.Maui.Models.Auth;
-using WatchStore.Maui.Services;
-using WatchStore.Maui.Views;
+using WatchStore.Maui.Services.Interfaces;
 
 namespace WatchStore.Maui.ViewModels;
 
 public partial class AuthViewModel : ObservableObject
 {
-    private readonly AuthApiService _authApiService;
+    private readonly IAuthApiService _authApiService;
+
+    private readonly INavigationService _navigationService;
 
     [ObservableProperty] private string email;
+
     [ObservableProperty] private string userName;
+
     [ObservableProperty] private string password;
+
     [ObservableProperty] private string confirmPassword;
+
     [ObservableProperty] private string errorMessage;
+
     [ObservableProperty] private bool isBusy;
 
-    public AuthViewModel(AuthApiService authApiService)
+    public AuthViewModel(IAuthApiService authApiService, INavigationService navigationService)
     {
         _authApiService = authApiService;
+        _navigationService = navigationService;
     }
 
     [RelayCommand]
     public async Task GoToRegisterAsync()
     {
-        await Shell.Current.GoToAsync(nameof(RegisterPage));
+        await _navigationService.NavigateAsync(AppRoutes.Register);
     }
 
     [RelayCommand]
@@ -93,7 +100,7 @@ public partial class AuthViewModel : ObservableObject
 
             await Shell.Current.DisplayAlert("Success", "Registered successfully!", "OK");
 
-            await Shell.Current.GoToAsync("//login");
+            await _navigationService.NavigateAsync("//login");
         }
         finally
         {
@@ -134,7 +141,7 @@ public partial class AuthViewModel : ObservableObject
             {
                 await Shell.Current.DisplayAlert("Success", "Logged in successfully!", "OK");
 
-                await Shell.Current.GoToAsync("//main");
+                await _navigationService.NavigateAsync("//main");
             }
             else
             {
@@ -144,36 +151,6 @@ public partial class AuthViewModel : ObservableObject
         catch (Exception ex)
         {
             ErrorMessage = "Login error: " + ex.Message;
-        }
-        finally
-        {
-            IsBusy = false;
-        }
-    }
-
-    [RelayCommand]
-    public async Task LogoutAsync()
-    {
-        if (IsBusy) return;
-        IsBusy = true;
-
-        try
-        {
-            var success = await _authApiService.LogoutAsync();
-            if (success)
-            {
-                Email = string.Empty;
-                Password = string.Empty;
-                ErrorMessage = string.Empty;
-
-                await Shell.Current.DisplayAlert("Success", "Logged out successfully!", "OK");
-
-                await Shell.Current.GoToAsync("//login");
-            }
-            else
-            {
-                await Shell.Current.DisplayAlert("Error", "Logout failed. Try again.", "OK");
-            }
         }
         finally
         {

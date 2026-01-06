@@ -1,4 +1,3 @@
-wwwroot\Images\Watches\0d96120c-3464-45e7-be0f-053fa96d5d6b.jpg
 wwwroot\Images\Watches\1099a187-365c-4e60-8a9d-9cc093d33902.jpg
 wwwroot\Images\Watches\17baf1b2-b332-4a4c-b45e-fc57706fdbe7.webp
 wwwroot\Images\Watches\20771c32-7d47-4064-9d8f-65a4ddc350a4.jpg
@@ -19,3 +18,4 @@ wwwroot\Images\Watches\bfc2658e-0f48-4057-a520-ebd0bf5edcfd.jpg
 wwwroot\Images\Watches\c5bca0a7-ed47-448e-b8d8-211cca5d5ce3.webp
 wwwroot\Images\Watches\e22edd91-20da-4c5f-8b88-9feeb768a4be.jpg
 wwwroot\Images\Watches\f88dda15-069d-4de1-92d5-92726298cc90.jpg
+wwwroot\Images\Watches\0d96120c-3464-45e7-be0f-053fa96d5d6b.png

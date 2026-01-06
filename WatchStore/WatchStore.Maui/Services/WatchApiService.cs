@@ -1,9 +1,10 @@
 ﻿using System.Net.Http.Json;
 using WatchStore.Maui.Models.Watch;
+using WatchStore.Maui.Services.Interfaces;
 
 namespace WatchStore.Maui.Services;
 
-public class WatchApiService
+public class WatchApiService : IWatchApiService
 {
     private readonly HttpClient _httpClient;
 
@@ -21,6 +22,6 @@ public class WatchApiService
     public async Task<List<WatchAdminDTO>> GetWatchesAdminAsync()
     {
         return await _httpClient
-            .GetFromJsonAsync<List<WatchAdminDTO>>("api/watches") ?? new List<WatchAdminDTO>();
+            .GetFromJsonAsync<List<WatchAdminDTO>>("api/watches/admin") ?? new List<WatchAdminDTO>();
     }
 }

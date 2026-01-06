@@ -1,8 +1,9 @@
 ﻿using System.Net.Http.Json;
 using WatchStore.Maui.Models.Auth;
+using WatchStore.Maui.Services.Interfaces;
 
 namespace WatchStore.Maui.Services;
-public class TokenApiService
+public class TokenApiService : ITokenApiService
 {
     private readonly HttpClient _httpClient;
 

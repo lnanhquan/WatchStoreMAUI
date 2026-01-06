@@ -1,0 +1,111 @@
+2026-01-05 09:32:25.438 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 09:32:25.640 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 09:32:39.456 +07:00 [INF] User admin logged in
+2026-01-05 09:32:43.889 +07:00 [INF] User requested all watches
+2026-01-05 09:32:43.891 +07:00 [INF] User requested all watches
+2026-01-05 09:32:43.940 +07:00 [INF] Returned 19 watches
+2026-01-05 09:32:43.940 +07:00 [INF] Returned 19 watches
+2026-01-05 09:54:57.244 +07:00 [INF] User requested all watches
+2026-01-05 09:54:58.095 +07:00 [INF] Returned 19 watches
+2026-01-05 10:24:42.659 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 10:24:42.779 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 10:28:58.749 +07:00 [INF] User admin logged in
+2026-01-05 10:29:03.996 +07:00 [INF] User requested all watches
+2026-01-05 10:29:03.996 +07:00 [INF] User requested all watches
+2026-01-05 10:29:04.064 +07:00 [INF] Returned 19 watches
+2026-01-05 10:29:04.064 +07:00 [INF] Returned 19 watches
+2026-01-05 10:29:35.049 +07:00 [INF] Admin requested all watches
+2026-01-05 10:29:35.057 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 10:33:40.734 +07:00 [INF] User requested all watches
+2026-01-05 10:33:40.734 +07:00 [INF] User requested all watches
+2026-01-05 10:33:40.817 +07:00 [INF] Returned 19 watches
+2026-01-05 10:33:40.817 +07:00 [INF] Returned 19 watches
+2026-01-05 10:33:51.618 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 10:33:51.705 +07:00 [INF] Admin requested all watches
+2026-01-05 10:33:51.719 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 10:34:07.925 +07:00 [INF] User requested all watches
+2026-01-05 10:34:07.925 +07:00 [INF] User requested all watches
+2026-01-05 10:34:07.927 +07:00 [INF] Returned 19 watches
+2026-01-05 10:34:07.927 +07:00 [INF] Returned 19 watches
+2026-01-05 10:37:12.649 +07:00 [INF] User requested all watches
+2026-01-05 10:37:12.649 +07:00 [INF] User requested all watches
+2026-01-05 10:37:12.652 +07:00 [INF] Returned 19 watches
+2026-01-05 10:37:12.652 +07:00 [INF] Returned 19 watches
+2026-01-05 11:03:45.728 +07:00 [INF] User requested all watches
+2026-01-05 11:03:45.728 +07:00 [INF] User requested all watches
+2026-01-05 11:03:45.827 +07:00 [INF] Returned 19 watches
+2026-01-05 11:03:45.827 +07:00 [INF] Returned 19 watches
+2026-01-05 11:03:56.302 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 11:03:56.388 +07:00 [INF] Admin requested all watches
+2026-01-05 11:03:56.397 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 11:09:45.612 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 11:09:45.737 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 11:10:18.296 +07:00 [WRN] Login failed for admin@gmail.com: Invalid password
+2026-01-05 11:10:24.819 +07:00 [INF] User admin logged in
+2026-01-05 11:10:35.374 +07:00 [INF] User requested all watches
+2026-01-05 11:10:35.374 +07:00 [INF] User requested all watches
+2026-01-05 11:10:35.455 +07:00 [INF] Returned 19 watches
+2026-01-05 11:10:35.455 +07:00 [INF] Returned 19 watches
+2026-01-05 11:14:16.787 +07:00 [INF] User requested all watches
+2026-01-05 11:14:16.787 +07:00 [INF] User requested all watches
+2026-01-05 11:14:16.855 +07:00 [INF] Returned 19 watches
+2026-01-05 11:14:16.855 +07:00 [INF] Returned 19 watches
+2026-01-05 11:21:03.876 +07:00 [INF] User requested all watches
+2026-01-05 11:21:03.876 +07:00 [INF] User requested all watches
+2026-01-05 11:21:03.910 +07:00 [INF] Returned 19 watches
+2026-01-05 11:21:03.915 +07:00 [INF] Returned 19 watches
+2026-01-05 11:22:15.038 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 11:22:15.080 +07:00 [INF] Admin requested all watches
+2026-01-05 11:22:15.096 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 11:22:18.311 +07:00 [INF] User requested all watches
+2026-01-05 11:22:18.353 +07:00 [INF] User requested all watches
+2026-01-05 11:22:18.356 +07:00 [INF] Returned 19 watches
+2026-01-05 11:22:18.360 +07:00 [INF] Returned 19 watches
+2026-01-05 11:22:23.449 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 11:23:48.785 +07:00 [WRN] Login failed for admin@gmail.com: Invalid password
+2026-01-05 11:23:52.199 +07:00 [INF] User admin logged in
+2026-01-05 11:23:54.948 +07:00 [INF] User requested all watches
+2026-01-05 11:23:54.948 +07:00 [INF] User requested all watches
+2026-01-05 11:23:55.023 +07:00 [INF] Returned 19 watches
+2026-01-05 11:23:55.023 +07:00 [INF] Returned 19 watches
+2026-01-05 11:32:29.234 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 11:32:29.377 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 13:37:59.727 +07:00 [INF] User admin logged in
+2026-01-05 13:38:04.106 +07:00 [INF] User requested all watches
+2026-01-05 13:38:04.106 +07:00 [INF] User requested all watches
+2026-01-05 13:38:04.172 +07:00 [INF] Returned 19 watches
+2026-01-05 13:38:04.172 +07:00 [INF] Returned 19 watches
+2026-01-05 13:58:28.108 +07:00 [INF] User requested all watches
+2026-01-05 13:58:28.108 +07:00 [INF] User requested all watches
+2026-01-05 13:58:28.215 +07:00 [INF] Returned 19 watches
+2026-01-05 13:58:28.215 +07:00 [INF] Returned 19 watches
+2026-01-05 14:23:02.963 +07:00 [INF] User requested all watches
+2026-01-05 14:23:02.963 +07:00 [INF] User requested all watches
+2026-01-05 14:23:03.060 +07:00 [INF] Returned 19 watches
+2026-01-05 14:23:03.060 +07:00 [INF] Returned 19 watches
+2026-01-05 14:23:12.615 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-05 14:23:12.697 +07:00 [INF] Admin requested all watches
+2026-01-05 14:23:12.712 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 14:23:24.970 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-05 14:23:42.977 +07:00 [INF] User user logged in
+2026-01-05 14:23:47.494 +07:00 [INF] Admin requested all watches
+2026-01-05 14:23:47.507 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 14:24:30.911 +07:00 [INF] User requested all watches
+2026-01-05 14:24:30.916 +07:00 [INF] Returned 19 watches
+2026-01-05 14:24:30.944 +07:00 [INF] User requested all watches
+2026-01-05 14:24:30.947 +07:00 [INF] Returned 19 watches
+2026-01-05 16:17:26.482 +07:00 [INF] User requested all watches
+2026-01-05 16:17:26.482 +07:00 [INF] User requested all watches
+2026-01-05 16:17:26.612 +07:00 [INF] Returned 19 watches
+2026-01-05 16:17:26.612 +07:00 [INF] Returned 19 watches
+2026-01-05 16:17:51.117 +07:00 [INF] Refresh token successfully issued for user user
+2026-01-05 16:17:51.205 +07:00 [INF] User 0e3a0d01-09cc-4d4c-9cf9-5adc33f4e3de logged out successfully
+2026-01-05 16:22:28.889 +07:00 [INF] User test registered successfully with email test@gmail.com
+2026-01-05 16:23:07.462 +07:00 [INF] User test logged in
+2026-01-05 16:23:41.991 +07:00 [INF] User requested all watches
+2026-01-05 16:23:41.991 +07:00 [INF] User requested all watches
+2026-01-05 16:23:42.042 +07:00 [INF] Returned 19 watches
+2026-01-05 16:23:42.042 +07:00 [INF] Returned 19 watches
+2026-01-05 16:23:47.914 +07:00 [INF] Admin requested all watches
+2026-01-05 16:23:47.922 +07:00 [INF] Returned 21 watches for admin
+2026-01-05 16:24:21.131 +07:00 [INF] User c192750f-a23e-4bac-a6df-79048b8988c1 logged out successfully

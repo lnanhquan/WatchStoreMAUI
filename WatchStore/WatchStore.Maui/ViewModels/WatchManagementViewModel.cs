@@ -2,22 +2,22 @@
 using CommunityToolkit.Mvvm.Input;
 using System.Collections.ObjectModel;
 using WatchStore.Maui.Models.Watch;
-using WatchStore.Maui.Services;
+using WatchStore.Maui.Services.Interfaces;
 
 namespace WatchStore.Maui.ViewModels;
 
 public partial class WatchManagementViewModel : ObservableObject
 {
-    private readonly WatchApiService _apiService;
+    private readonly IWatchApiService _watchService;
 
     [ObservableProperty]
     private bool isLoading;
 
     public ObservableCollection<WatchAdminDTO> Watches { get; } = new();
 
-    public WatchManagementViewModel(WatchApiService apiService)
+    public WatchManagementViewModel(IWatchApiService apiService)
     {
-        _apiService = apiService;
+        _watchService = apiService;
     }
 
     [RelayCommand]
@@ -26,7 +26,7 @@ public partial class WatchManagementViewModel : ObservableObject
         IsLoading = true;
         try
         {
-            var watches = await _apiService.GetWatchesAdminAsync();
+            var watches = await _watchService.GetWatchesAdminAsync();
             Watches.Clear();
             foreach (var w in watches)
                 Watches.Add(w);

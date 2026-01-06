@@ -1,9 +1,10 @@
 ﻿using System.Net.Http.Json;
 using System.Text.Json;
 using WatchStore.Maui.Models.Auth;
+using WatchStore.Maui.Services.Interfaces;
 
 namespace WatchStore.Maui.Services;
-public class AuthApiService
+public class AuthApiService : IAuthApiService
 {
     private readonly HttpClient _httpClient;
 
@@ -60,17 +61,6 @@ public class AuthApiService
             return true;
         }
         return false;
-    }
-
-    public async Task<LoginResponseDTO?> RefreshTokenAsync(string refreshToken)
-    {
-        var dto = new RefreshTokenDTO { RefreshToken = refreshToken };
-        var response = await _httpClient.PostAsJsonAsync("api/auth/refresh-token", dto);
-        if (response.IsSuccessStatusCode)
-        {
-            return await response.Content.ReadFromJsonAsync<LoginResponseDTO>();
-        }
-        return null;
     }
 
     public async Task<bool> LogoutAsync()

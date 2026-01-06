@@ -45,9 +45,9 @@ public final class R {
 		public static final int telerik_shadow_mtrl_min_touch_target_size = 0x7f060329;
 	}
 	public static final class drawable {
-		public static final int hamburger = 0x7f070093;
-		public static final int hmb = 0x7f070094;
-		public static final int tab_view_popup_background = 0x7f070105;
+		public static final int hamburger = 0x7f070095;
+		public static final int hmb = 0x7f070096;
+		public static final int tab_view_popup_background = 0x7f070109;
 	}
 	public static final class id {
 		public static final int chart_data_point_content_container = 0x7f08009f;

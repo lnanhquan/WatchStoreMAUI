@@ -42,17 +42,7 @@
                                    BackgroundColor="#0F766E"
                                    TextColor="White"
                                    Clicked="OnWatchManagementClicked"/>
-                
-                <telerik:RadButton x:Name="buttonLogout"
-                                   Text="Logout"
-                                   Command="{Binding LogoutCommand}"
-                                   FontSize ="20"
-                                   WidthRequest="250"
-                                   HeightRequest="60"
-                                   CornerRadius="10"
-                                   BackgroundColor="DarkRed"
-                                   TextColor="White"/>
-                
+
             </VerticalStackLayout>
         </Grid>
     </ScrollView>

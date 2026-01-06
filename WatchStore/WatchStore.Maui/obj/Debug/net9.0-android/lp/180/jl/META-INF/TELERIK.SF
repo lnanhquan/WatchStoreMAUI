@@ -1,0 +1,102 @@
+Signature-Version: 1.0
+Created-By: 17.0.15 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: avV0jKU32hJkiMH5r7WIHqJM4EFT/ktzLdJ/LMtKROs=
+SHA-256-Digest-Manifest-Main-Attributes: m7DJayaOOjfnPjeD2aOw22Bl0fTpGI/
+ 7buK6mOCd50A=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: EaRQJyqckLOP8ie3+PdblYjAbNdabVJtXoIlFKoweKg=
+
+Name: res/drawable-hdpi-v4/ic_collapse.png
+SHA-256-Digest: IMJUwgNqCEto0oXknMjOW6SRVlPpVBLQaPxZuCk1LgA=
+
+Name: res/layout/simple_empty_content.xml
+SHA-256-Digest: +Og6f44ir+UoOk3abv3QwoXVfDIVq4vK5YBS89WtSFg=
+
+Name: res/layout-v11/simple_list_item.xml
+SHA-256-Digest: ctGz+L2NWovn6XIEEFyQCmU4tT8tgvIO/4R1isMaH0A=
+
+Name: res/drawable-xxhdpi-v4/ic_collapse_dark.png
+SHA-256-Digest: yUtXC5np0uKKhcv1yEgSlNjaehbbsunF3iw8G7zH1dE=
+
+Name: res/drawable-xxhdpi-v4/ic_collapse.png
+SHA-256-Digest: bnafaH7dTdufVuRjPGNhKzJBq0V9acurWsi2RxveSUc=
+
+Name: res/drawable-xxxhdpi-v4/ic_expand.png
+SHA-256-Digest: KuBMbriG9n967g0xuBXnitwfDo5SEhzecTVoI/XCrqY=
+
+Name: R.txt
+SHA-256-Digest: VqlLoDj1TY1VnB98oXaSQ897unJqkXwL6KbQBkK+xJE=
+
+Name: res/drawable/shade_corner.xml
+SHA-256-Digest: Z5FF7mADL2yJhdKVX3/P2INz4ttSNWLUvT0tG9mqaG0=
+
+Name: res/drawable-mdpi-v4/ic_collapse.png
+SHA-256-Digest: jciw6rmS33ZxwBy3QTKKbPEqoenB0gLH6iGZPvx9uk0=
+
+Name: res/drawable/shade_right.xml
+SHA-256-Digest: jJgTdLqbgwBRU6Rbg4EDlcbYbJgBWFxcX4323xNPf9M=
+
+Name: res/values-night-v8/values-night-v8.xml
+SHA-256-Digest: yD94ZBXMewu/ZHKLhUqMiax8weReXLlWiu7X+Un8ees=
+
+Name: res/drawable/pressable_item_background.xml
+SHA-256-Digest: R91xL1i13B3wYEUROHxFjRhWybFleJY7qbiViaT+ZVg=
+
+Name: res/drawable-xxhdpi-v4/ic_expand.png
+SHA-256-Digest: HEdxbIEVbZfaOyyYd7L+uIl0+9AB3DVEZSKQnG/8aZY=
+
+Name: res/drawable-xhdpi-v4/ic_collapse.png
+SHA-256-Digest: CRzP1yBhYMIlOIWWfNEeBUdZvkWej9Fi01ak9HGjDWY=
+
+Name: res/layout-v11/on_demand_manual.xml
+SHA-256-Digest: rPCjNj8Fj8fQR+O0bvN2JjX0fghd+WYjuUl7EI25Y4I=
+
+Name: classes.jar
+SHA-256-Digest: V4N4fiJJgnG0nil9NCouCprEyzKqOdKPbfgBFT/GiH0=
+
+Name: res/drawable/gingerbread_background.xml
+SHA-256-Digest: 0S2lpANbirRDBvnmepKmq9B6tOgKXbm1dBi0+UrDQ4E=
+
+Name: res/values/values.xml
+SHA-256-Digest: aG6y0Jfk7WaQ5FihBfLttOtrusuZxnIzsok/yRUnehg=
+
+Name: res/drawable/selectable_item_background.xml
+SHA-256-Digest: uOfH5OENThvXNSFCQCnnPO8kAWnUiNnmTnuBZ7DyY1k=
+
+Name: res/drawable-xhdpi-v4/ic_expand.png
+SHA-256-Digest: i0z0iLTWczUd1Qk0pwr7Xs+lFQVZSyMBiRJQ9q1Gqrw=
+
+Name: res/layout/simple_group_header_item.xml
+SHA-256-Digest: tmSm/ULP3Pt5IzgEQeZ1KPUQUrW2TyAPb7/h03wCLJc=
+
+Name: res/drawable-v21/pressable_item_background.xml
+SHA-256-Digest: iEnvjZ3OIc2v1KFk3wMIbd7yxMzbnoUj9SD/V9xdS7Y=
+
+Name: res/drawable-hdpi-v4/ic_collapse_dark.png
+SHA-256-Digest: ssIUM0lwe1j2snlFObk/fcWfKA+5ckwobD2lSNZF3+U=
+
+Name: res/drawable/shade_bottom.xml
+SHA-256-Digest: b3oEg12dj4tId3he6/omj8AOnRza5HplsZkNMhWE2wg=
+
+Name: res/drawable-mdpi-v4/ic_expand.png
+SHA-256-Digest: GOwrUIoa/bbygKfirbpv3uwNamZ1yLuMtNFcG6l1nZM=
+
+Name: META-INF/com/android/build/gradle/aar-metadata.properties
+SHA-256-Digest: AoVAD6eppUW57iQjjPJaU5MKKo7pcObgxo+dfZQ/71k=
+
+Name: res/drawable-hdpi-v4/ic_expand.png
+SHA-256-Digest: 2OxUp62edVKnWwBfd0FIGgdrimP4ytuFfnAUZSGhnnY=
+
+Name: res/drawable-xxxhdpi-v4/ic_collapse.png
+SHA-256-Digest: 3YNTVIztKWa19CH33IfGHPnDE7+O4c/PeQOxt2z4IuU=
+
+Name: res/drawable-xhdpi-v4/ic_collapse_dark.png
+SHA-256-Digest: h5ghJCTBdyDvMoRR/ALr4g/GVtnsRDaK5WedH4uMHzo=
+
+Name: res/layout/on_demand_automatic.xml
+SHA-256-Digest: KBP06sJ91Rov/MT36wj3orOhat/g7uX3Dy3jVm8bhNU=
+
+Name: res/drawable-mdpi-v4/ic_collapse_dark.png
+SHA-256-Digest: hyn38uIIrA4mqc2JN2rE7HX0rT8o3cMKNP9PUZvQ9rc=
+

@@ -1,0 +1,35 @@
+2026-01-06 09:07:09.475 +07:00 [INF] User admin logged in
+2026-01-06 09:07:15.509 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-06 09:12:23.675 +07:00 [INF] User admin logged in
+2026-01-06 09:12:33.780 +07:00 [INF] User requested all watches
+2026-01-06 09:12:33.780 +07:00 [INF] User requested all watches
+2026-01-06 09:12:33.836 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:33.836 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:38.119 +07:00 [INF] User requested all watches
+2026-01-06 09:12:38.119 +07:00 [INF] User requested all watches
+2026-01-06 09:12:38.121 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:38.122 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:42.076 +07:00 [INF] User requested all watches
+2026-01-06 09:12:42.079 +07:00 [INF] User requested all watches
+2026-01-06 09:12:42.079 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:42.080 +07:00 [INF] Returned 19 watches
+2026-01-06 09:12:59.000 +07:00 [INF] Admin requested all watches
+2026-01-06 09:12:59.007 +07:00 [INF] Returned 21 watches for admin
+2026-01-06 09:13:07.314 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-06 09:15:19.921 +07:00 [INF] User admin logged in
+2026-01-06 09:15:31.117 +07:00 [INF] User requested all watches
+2026-01-06 09:15:31.117 +07:00 [INF] User requested all watches
+2026-01-06 09:15:31.237 +07:00 [INF] Returned 19 watches
+2026-01-06 09:15:31.237 +07:00 [INF] Returned 19 watches
+2026-01-06 09:47:26.785 +07:00 [INF] Refresh token successfully issued for user admin
+2026-01-06 09:47:26.906 +07:00 [INF] User 8a77aa77-7abf-4241-ba5e-0d22ad107ad1 logged out successfully
+2026-01-06 09:47:36.726 +07:00 [INF] User test logged in
+2026-01-06 09:47:40.386 +07:00 [INF] User requested all watches
+2026-01-06 09:47:40.386 +07:00 [INF] User requested all watches
+2026-01-06 09:47:40.435 +07:00 [INF] Returned 19 watches
+2026-01-06 09:47:40.435 +07:00 [INF] Returned 19 watches
+2026-01-06 09:47:51.354 +07:00 [INF] Admin requested all watches
+2026-01-06 09:47:51.361 +07:00 [INF] Returned 21 watches for admin
+2026-01-06 09:49:03.482 +07:00 [INF] Admin requested all watches
+2026-01-06 09:49:03.485 +07:00 [INF] Returned 21 watches for admin
+2026-01-06 09:49:10.945 +07:00 [INF] User c192750f-a23e-4bac-a6df-79048b8988c1 logged out successfully

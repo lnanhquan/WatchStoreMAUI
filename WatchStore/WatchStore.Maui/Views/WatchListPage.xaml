@@ -11,7 +11,7 @@
                               AnimationContentWidthRequest="100">
         
         <telerik:RadBusyIndicator.Content>
-            <Grid BackgroundColor="#FAFAFA">
+            <Grid>
                 <RefreshView IsRefreshing="{Binding IsLoading}"
                              Command="{Binding LoadWatchesCommand}">
                     
@@ -27,14 +27,14 @@
                         <telerik:RadCollectionView.ItemTemplate>
                             <DataTemplate>
                                 <telerik:RadBorder Padding="10"
-                                                   BackgroundColor="White"
+                                                   BackgroundColor="{AppThemeBinding Light=#FFFFFF, Dark=#2A2A2A}"
                                                    CornerRadius="15"
                                                    HorizontalOptions="Center"
                                                    MinimumWidthRequest="430"
                                                    MinimumHeightRequest="430">
 
                                     <telerik:RadBorder.Shadow>
-                                        <Shadow Radius="15" Opacity="0.2" Offset="0,0"/>
+                                        <Shadow Radius="15" Opacity="{AppThemeBinding Light=0.2, Dark=0.8}" Offset="0,0"/>
                                     </telerik:RadBorder.Shadow>
                                     
                                     <Grid RowDefinitions="280,45,*" RowSpacing="6">
@@ -49,7 +49,7 @@
 
                                         <Label Grid.Row="1"
                                            Text="{Binding Name}"
-                                           TextColor="Black"
+                                           TextColor="{AppThemeBinding Light=Black, Dark=White}"
                                            FontSize="16"
                                            FontAttributes="Bold"
                                            MaxLines="2"
