@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WatchStore.Maui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+981e2658c55ca8b006f8c1e2821b227c90d16ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+33cb8efe5a4c06db42afa33cf5872c1264f30d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatchStore.Maui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatchStore.Maui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

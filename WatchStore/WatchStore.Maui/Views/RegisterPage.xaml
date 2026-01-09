@@ -5,24 +5,24 @@
              x:Class="WatchStore.Maui.Views.RegisterPage"
              Title="Register">
 
-    <Grid Padding="20" WidthRequest="600" HorizontalOptions="Center" VerticalOptions="Center">
+    <Grid HorizontalOptions="Fill"
+          VerticalOptions="Fill">
 
-        <telerik:RadBusyIndicator IsBusy="{Binding IsBusy}"/>
-
-        <telerik:RadBorder x:Name="border"
+        <telerik:RadBorder x:Name="border" 
+                           BorderColor="#CCCCCC" 
                            BorderThickness="2"
-                           BorderColor="#CCCCCC"
                            CornerRadius="10"
-                           Padding="20" >
+                           Padding="20"
+                           WidthRequest="600"
+                           HeightRequest="400">
 
             <ScrollView>
-
                 <VerticalStackLayout Spacing="20">
 
                     <Label Text="Create your account"
-                       FontSize="30"
-                       HorizontalOptions="Center"
-                       FontAttributes="Bold" />
+                           FontSize="30"
+                           HorizontalOptions="Center"
+                           FontAttributes="Bold" />
 
                     <telerik:RadEntry x:Name="entryEmail"
                                       Placeholder="Email"
@@ -68,11 +68,22 @@
                                        HeightRequest="50" />
 
                 </VerticalStackLayout>
-
             </ScrollView>
 
         </telerik:RadBorder>
 
+        <telerik:RadBusyIndicator x:Name="busyIndicator"
+                                  IsBusy="{Binding IsBusy}"
+                                  IsVisible="{Binding IsBusy}"
+                                  AnimationType="Animation3"
+                                  BackgroundColor="{AppThemeBinding Light=#80000000, Dark=#80FFFFFF}"
+                                  AnimationContentColor="{AppThemeBinding Light=#512BD4, Dark=White}"
+                                  ContentUnderOpacity="0.2"
+                                  AnimationContentHeightRequest="150"
+                                  AnimationContentWidthRequest="150"
+                                  HorizontalOptions="Fill"
+                                  VerticalOptions="Fill" />
+        
     </Grid>
 
 </ContentPage>

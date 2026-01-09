@@ -139,8 +139,6 @@ public partial class AuthViewModel : ObservableObject
 
             if (success)
             {
-                await Shell.Current.DisplayAlert("Success", "Logged in successfully!", "OK");
-
                 await _navigationService.NavigateAsync("//main");
             }
             else

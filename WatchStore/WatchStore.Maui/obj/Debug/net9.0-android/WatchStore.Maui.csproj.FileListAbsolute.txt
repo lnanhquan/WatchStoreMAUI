@@ -1607,12 +1607,8 @@ C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\De
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\resizetizer\r\drawable\theme_dark.png
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\resizetizer\r\drawable\theme_light.png
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.o
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\environment.arm64-v8a.o
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.o
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
-C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-android\WatchSto.A57A0995.Up2Date

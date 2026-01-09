@@ -556,3 +556,7 @@ C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\De
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\theme_light.scale-100.png
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\theme_dark.scale-100.png
 C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\theme_light.scale-100.png
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\Admin\Documents\GitHub\WatchStoreMAUI\WatchStore\WatchStore.Maui\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll

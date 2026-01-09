@@ -4,19 +4,19 @@
              xmlns:telerik="http://schemas.telerik.com/2022/xaml/maui"
              x:Class="WatchStore.Maui.Views.LoginPage"
              Title="Login">
-    
-    <Grid Padding="20" WidthRequest="600" HorizontalOptions="Center" VerticalOptions="Center">
 
-        <telerik:RadBusyIndicator IsBusy="{Binding IsBusy}"/>
-
+    <Grid HorizontalOptions="Fill"
+          VerticalOptions="Fill">
+        
         <telerik:RadBorder x:Name="border" 
                            BorderColor="#CCCCCC" 
                            BorderThickness="2"
                            CornerRadius="10"
-                           Padding="20" >
+                           Padding="20"
+                           MaximumHeightRequest="400"
+                           MaximumWidthRequest="600">
 
             <ScrollView>
-
                 <VerticalStackLayout Spacing="20">
 
                     <Label Text="Login"
@@ -43,7 +43,7 @@
                            TextColor="Red"
                            HorizontalOptions="Center"
                            FontAttributes="Bold" />
-                    
+
                     <telerik:RadButton x:Name="buttonLogin" 
                                        Text="Login"
                                        Command="{Binding LoginCommand}"
@@ -51,7 +51,7 @@
                                        TextColor="White"
                                        CornerRadius="12"
                                        HeightRequest="50" />
-                    
+
                     <telerik:RadButton x:Name="buttonGoToRegister"
                                        Text="Register"
                                        Command="{Binding GoToRegisterCommand}"
@@ -61,11 +61,22 @@
                                        HeightRequest="50" />
 
                 </VerticalStackLayout>
-
             </ScrollView>
 
         </telerik:RadBorder>
-
+        
+        <telerik:RadBusyIndicator x:Name="busyIndicator"
+                                  IsBusy="{Binding IsBusy}"
+                                  IsVisible="{Binding IsBusy}"
+                                  AnimationType="Animation3"
+                                  BackgroundColor="{AppThemeBinding Light=#80000000, Dark=#80FFFFFF}"
+                                  AnimationContentColor="{AppThemeBinding Light=#512BD4, Dark=White}"
+                                  ContentUnderOpacity="0.2"
+                                  AnimationContentHeightRequest="150"
+                                  AnimationContentWidthRequest="150"
+                                  HorizontalOptions="Fill"
+                                  VerticalOptions="Fill" />
+        
     </Grid>
-    
+
 </ContentPage>

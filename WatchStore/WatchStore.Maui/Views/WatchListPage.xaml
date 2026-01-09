@@ -7,8 +7,11 @@
 
     <telerik:RadBusyIndicator x:Name="busyIndicator" 
                               IsBusy="{Binding IsLoading}"
-                              AnimationContentHeightRequest="100"
-                              AnimationContentWidthRequest="100">
+                              AnimationType="Animation3"
+                              AnimationContentColor="{AppThemeBinding Light=#512BD4, Dark=White}"
+                              ContentUnderOpacity="0.2"
+                              AnimationContentHeightRequest="150"
+                              AnimationContentWidthRequest="150">
         
         <telerik:RadBusyIndicator.Content>
             <Grid>
